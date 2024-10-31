@@ -1,500 +1,500 @@
-login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
-huggingface,Hugging Face,,NYC + Paris,,False,The AI community building the future.,260,38160,0,2017-02-12 11:20:28+00:00
-brunosimon,Bruno Simon,CREATIVE JOURNEY,Paris,,True,,79,18754,0,2013-09-11 23:44:41+00:00
-fabpot,Fabien Potencier,SYMFONY/PLATFORM.SH/BLACKFIRE,"Paris, France",fabien@symfony.com,False,"Founder and project lead at Symfony
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at,leader_strength
+huggingface,Hugging Face,,NYC + Paris,,false,The AI community building the future.,260,38160,0,2017-02-12 11:20:28+00:00,38160.0
+brunosimon,Bruno Simon,CREATIVE JOURNEY,Paris,,true,,79,18754,0,2013-09-11 23:44:41+00:00,18754.0
+fabpot,Fabien Potencier,SYMFONY/PLATFORM.SH/BLACKFIRE,"Paris, France",fabien@symfony.com,false,"Founder and project lead at Symfony
 CPO at Platform.sh
-",77,13246,0,2009-01-17 13:42:51+00:00
-Charles-Chrismann,Charles Chrismann,INSTITUT DE L'INTERNET ET DU MULTIMÉDIA (IIM),"Paris, La Défense",,False,Étudiant en 3e année de Développement Web à l'IIM ,35,12031,218305,2021-01-28 14:18:01+00:00
-posva,Eduardo San Martin Morote,FREELANCE,Paris ,,True,"Member of the @vuejs core team
+",77,13246,0,2009-01-17 13:42:51+00:00,13246.0
+Charles-Chrismann,Charles Chrismann,INSTITUT DE L'INTERNET ET DU MULTIMÉDIA (IIM),"Paris, La Défense",,false,Étudiant en 3e année de Développement Web à l'IIM ,35,12031,218305,2021-01-28 14:18:01+00:00,0.055110716150724215
+posva,Eduardo San Martin Morote,FREELANCE,Paris ,,true,"Member of the @vuejs core team
 Speaker, trainer.
 From 🇪🇸, lives in 🇫🇷
-",323,5895,58,2011-03-11 14:29:46+00:00
-ogrisel,Olivier Grisel,PROBABL.AI,"Paris, France",olivier.grisel@ensta.org,False,Machine Learning Engineer at :probabl. and core contributor to scikit-learn.,208,4746,116,2009-05-27 09:03:40+00:00
-florent37,Florent CHAMPIGNY,,"Paris, France",champigny.florent@gmail.com,False,,128,4118,66,2013-10-23 09:45:34+00:00
-juliangarnier,Julian Garnier,HTTPS://ANIMEJS.COM,Paris,julian@animejs.com,False,Making Anime.js,19,3791,6,2011-12-16 20:40:13+00:00
-lewagon,Le Wagon,,"Paris, London, Berlin & more",contact@lewagon.com,False,Coding School bringing Technical Skills to Creative People,175,3635,0,2013-09-16 13:20:52+00:00
-ocornut,omar,DISCO HELLO / LIZARDCUBE,"Paris, France",,True,,14,3415,2,2014-07-21 14:23:24+00:00
-merveenoyan,Merve Noyan,HUGGINGFACE,Paris,merve@huggingface.co,False,builds at 🤗,58,3192,141,2019-07-22 10:17:00+00:00
-oliviertassinari,Olivier Tassinari,MUI,"Paris, France",,False,"CEO, co-founder at @mui • co-creator of Material UI • studied @TelecomParis • ex @doctolib",158,3101,103,2013-01-01 23:34:22+00:00
-HoussemDellai,Houssem Dellai,MICROSOFT,Paris,houssem.dellai@microsoft.com,True,"Engineer at Microsoft
+",323,5895,58,2011-03-11 14:29:46+00:00,99.91525423728814
+ogrisel,Olivier Grisel,PROBABL.AI,"Paris, France",olivier.grisel@ensta.org,false,Machine Learning Engineer at :probabl. and core contributor to scikit-learn.,208,4746,116,2009-05-27 09:03:40+00:00,40.56410256410256
+florent37,Florent CHAMPIGNY,,"Paris, France",champigny.florent@gmail.com,false,,128,4118,66,2013-10-23 09:45:34+00:00,61.46268656716418
+juliangarnier,Julian Garnier,HTTPS://ANIMEJS.COM,Paris,julian@animejs.com,false,Making Anime.js,19,3791,6,2011-12-16 20:40:13+00:00,541.5714285714286
+lewagon,Le Wagon,,"Paris, London, Berlin & more",contact@lewagon.com,false,Coding School bringing Technical Skills to Creative People,175,3635,0,2013-09-16 13:20:52+00:00,3635.0
+ocornut,omar,DISCO HELLO / LIZARDCUBE,"Paris, France",,true,,14,3415,2,2014-07-21 14:23:24+00:00,1138.3333333333333
+merveenoyan,Merve Noyan,HUGGINGFACE,Paris,merve@huggingface.co,false,builds at 🤗,58,3192,141,2019-07-22 10:17:00+00:00,22.47887323943662
+oliviertassinari,Olivier Tassinari,MUI,"Paris, France",,false,"CEO, co-founder at @mui • co-creator of Material UI • studied @TelecomParis • ex @doctolib",158,3101,103,2013-01-01 23:34:22+00:00,29.817307692307693
+HoussemDellai,Houssem Dellai,MICROSOFT,Paris,houssem.dellai@microsoft.com,true,"Engineer at Microsoft
 (Azure / Kubernetes / DevOps / Terraform)
-Previously Microsoft MVP",211,3051,19,2014-01-30 21:07:48+00:00
-cyrildiagne,Cyril Diagne,,Paris - France,,False,AI Indie Hacker,81,2550,216,2009-10-25 10:39:50+00:00
-gwen001,Gwendal Le Coguic,10DEGRES,Paris - France,,True,"Bug hunter, tool maker.",58,2494,11,2013-08-30 15:26:42+00:00
-mblondel,Mathieu Blondel,GOOGLE DEEPMIND,"Paris, France",,False,Research scientist,20,2489,18,2010-03-30 21:54:10+00:00
-BartoszMilewski,Bartosz Milewski,PROGRAMMING CAFE,"Paris, France",bartosz@relisoft.com,False,Author of Category Theory for Programmers,35,2321,0,2011-05-20 00:14:02+00:00
-StanGirard,Stan Girard,QUIVRHQ,Paris,,False,Creator & Co-Founder @ Quivr.app,68,2300,17,2016-05-27 19:20:37+00:00
-LaurentMazare,Laurent Mazare,,Paris,,False,CTO at Kyutai,90,2212,1,2011-09-10 20:09:57+00:00
-stof,Christophe Coevoet,INCENTEEV,Paris,,False,,675,2092,39,2010-10-14 13:56:42+00:00
-rom1504,Romain Beaumont,GOOGLE,Paris,romain.rom1@gmail.com,True,"Interested in machine learning (computer vision, natural language processing, deep learning), node.js (network, bots, web), and programming in general",214,2076,47,2012-09-14 12:06:33+00:00
-donho,Don HO,NOTEPAD++ PROJECT,Paris France,don.h@free.fr,True,"GitHub is my Tinder,
+Previously Microsoft MVP",211,3051,19,2014-01-30 21:07:48+00:00,152.55
+cyrildiagne,Cyril Diagne,,Paris - France,,false,AI Indie Hacker,81,2550,216,2009-10-25 10:39:50+00:00,11.751152073732719
+gwen001,Gwendal Le Coguic,10DEGRES,Paris - France,,true,"Bug hunter, tool maker.",58,2494,11,2013-08-30 15:26:42+00:00,207.83333333333334
+mblondel,Mathieu Blondel,GOOGLE DEEPMIND,"Paris, France",,false,Research scientist,20,2489,18,2010-03-30 21:54:10+00:00,131.0
+BartoszMilewski,Bartosz Milewski,PROGRAMMING CAFE,"Paris, France",bartosz@relisoft.com,false,Author of Category Theory for Programmers,35,2321,0,2011-05-20 00:14:02+00:00,2321.0
+StanGirard,Stan Girard,QUIVRHQ,Paris,,false,Creator & Co-Founder @ Quivr.app,68,2300,17,2016-05-27 19:20:37+00:00,127.77777777777777
+LaurentMazare,Laurent Mazare,,Paris,,false,CTO at Kyutai,90,2212,1,2011-09-10 20:09:57+00:00,1106.0
+stof,Christophe Coevoet,INCENTEEV,Paris,,false,,675,2092,39,2010-10-14 13:56:42+00:00,52.3
+rom1504,Romain Beaumont,GOOGLE,Paris,romain.rom1@gmail.com,true,"Interested in machine learning (computer vision, natural language processing, deep learning), node.js (network, bots, web), and programming in general",214,2076,47,2012-09-14 12:06:33+00:00,43.25
+donho,Don HO,NOTEPAD++ PROJECT,Paris France,don.h@free.fr,true,"GitHub is my Tinder,
 to flirt with developers,
 by using the romantic source code poetry.
-",9,1995,0,2009-05-31 00:41:16+00:00
-gregberge,Greg Bergé,ARGOS,"Paris, France",greg@smooth-code.com,False,"❤️ React & JavaScript — Teacher, speaker.
-My open source projects are trusted by thousand developers around the world.",130,1990,109,2010-05-06 08:31:36+00:00
-strapi,strapi,,"Paris, France",hi@strapi.io,False,Build powerful back-end with no effort.,79,1983,0,2016-06-11 11:07:55+00:00
-nicolas-grekas,Nicolas Grekas,SYMFONYCORP,"Paris, France",,False,"Submitting features and bug(fixes) @symfony, to make it always faster, easier to use and better designed, uncompromising.
-@ESPCI_Alumni engineer.",108,1958,5,2010-04-14 09:44:17+00:00
-gre,@greweb,LEDGERHQ,"Paris, France",,False,👾 👨‍👩‍👦‍👦 👨🏻‍🌾 🌱 🀄️ 🍷 🥖,321,1895,59,2010-02-26 13:44:19+00:00
-emilwallner,Emil Wallner,PALETTE,Paris | Nyköping,w@llner.co,True,internet-educated. into machine learning and colorization. maker of palette.fm. former resident at  the google arts & culture lab.,20,1885,435,2015-05-21 10:43:50+00:00
-4ian,Florian Rival,GDEVELOPAPP,"Paris, France",,False,Making game building accessible to everyone with @GDevelopApp: the open-source and no-code game engine. Previously: gaming @google.,61,1852,11,2011-12-22 14:27:39+00:00
-robbiebarrat,Robbie Barrat,,"Paris, France",robbiebarrat@gmail.com,True,Artist working with new media + AI,19,1849,39,2015-03-03 00:01:03+00:00
-slorber,Sébastien Lorber,THIS WEEK IN REACT,Paris,,False,"Editor of ThisWeekInReact.com, Docusaurus maintainer",304,1833,30,2011-04-24 22:50:51+00:00
-arcanis,Maël Nison,DATADOG,"Paris, France",,False,"Lead maintainer for @yarnpkg 📦🧶
-Staff DevX @DataDog, ex @facebook, @sketchfab, ...",316,1832,0,2011-09-09 07:17:46+00:00
-FaridSafi,Farid Safi,LEREACTEUR,"Paris, France",,True,"Co-Founder of Le Reacteur Coding Bootcamp
-#JavaScript #React #React-Native",69,1784,109,2010-09-05 14:00:06+00:00
-GitSquared,Gabriel Saillard,CARBONFACT,"Paris, France",gabriel@saillard.dev,False,i dream and write code / engineering @carbonfact ,22,1762,176,2016-12-10 17:39:02+00:00
-angristan,Stanislas,BACKEND ENGINEER @QONTO,Paris,,True,tired of computers,230,1758,521,2015-03-28 21:26:45+00:00
-Papillard,Boris Paillard,LE WAGON,Paris,boris.paillard@gmail.com,False,CEO @lewagon ,73,1686,6,2012-10-02 12:15:56+00:00
-AEFaour,Anas FAOUR,,Paris,,False,Ingénieur d'Etude et Développement Informatique,50,1547,19,2018-11-11 12:33:08+00:00
-LysandreJik,Lysandre Debut,HUGGING FACE,Paris,hi@lysand.re,False,Head of OSS @huggingface. Open Source developer.,43,1532,65,2017-08-05 17:42:03+00:00
-anisayari,Anis AYARI,,Paris Area,,True,Skynet Guru.,92,1511,49,2015-01-03 13:11:38+00:00
-VincentGarreau,Vincent Garreau,LIVESTORM,"Paris, France",vin.garreau@gmail.com,False,"Co-founder & Principal Engineer
-livestorm.co",15,1494,8,2011-08-05 19:21:16+00:00
-castorflex,Antoine Merle,QONTO,"Paris, France",merle.antoine@gmail.com,False,android dev @qonto,17,1480,26,2012-01-21 17:34:21+00:00
-Genymobile,Genymobile,,"Paris, Lyon, San Francisco",,False,,51,1474,0,2013-01-30 12:47:07+00:00
-GuillaumeGomez,Guillaume Gomez,HUAWEI,Paris,guillaume1.gomez@gmail.com,False,"Opensource lover. Rustdoc team leader, member of the Rust dev-tools, documentation and docs.rs teams, GNOME foundation member.",259,1385,3,2012-12-15 14:08:11+00:00
-gpeyre,Gabriel Peyré,CNRS,Paris,gabriel.peyre@ens.fr,False,"CNRS senior researcher in the DMA, Ecole Normale Supérieure",49,1328,0,2013-09-27 18:48:39+00:00
-Unitech,Alexandre Strzelewicz,KEYMETRICS,Paris,,False,PM2 Gatekeeper - Keymetrics Founder,192,1324,416,2011-04-28 20:38:41+00:00
-agoncal,Antonio Goncalves,MICROSOFT,Paris,antonio.goncalves@gmail.com,False,"Java Champion mostly working with distributed systems, microservices, Quarkus, MicroProfile, and Java EE",150,1320,26,2011-04-14 13:06:14+00:00
-agramfort,Alexandre Gramfort,META,"Paris, France",alexandre.gramfort@m4x.org,False,"Machine Learning researcher @ Meta Reality Labs, scikit-learn core dev, pythonista interested in neuroscience applications",173,1300,176,2009-12-02 20:23:59+00:00
-JosePaumard,José Paumard,ORACLE,Paris,Jose.Paumard@gmail.com,False,Java DevRel Advocate @Oracle,40,1291,1,2012-05-20 16:35:23+00:00
-aaugustin,Aymeric Augustin,QONTO,"Paris, France",,False,,18,1289,0,2011-05-15 08:48:57+00:00
-Kakise,Kakise,,"Paris, France",,False,C++/TypeScript/Python,63,1283,28202,2016-04-24 18:32:12+00:00
-rom1v,Romain Vimont,VIDEOLABS,"Paris, France",,False,scrcpy author & VLC developer,79,1281,96,2011-01-01 11:57:54+00:00
-nadimkobeissi,Nadim Kobeissi,"SYMBOLICSOFT, @CURE53BERLIN","Paris, France",n@nadim.email,False,,19,1243,21,2008-05-11 15:45:57+00:00
-vincentbernat,Vincent Bernat,FREE,"Paris, France",vincent@bernat.ch,False,,412,1108,5,2011-02-22 07:20:26+00:00
-groue,Gwendal Roué,PIERLIS,"Paris, France",gr@pierlis.com,False,"iOS app developer, and author of a few open source libraries",67,1093,12,2009-02-13 10:40:13+00:00
-dimitri,Dimitri Fontaine,CITUSDATA,"Paris, France",dim@tapoueh.org,False,"PostgreSQL Major Contributor (Extensions, Event Triggers, pgloader, pg_auto_failover, pgcopydb, ...), working at @citusdata.",69,1089,12,2009-07-08 14:32:54+00:00
-Bleuje,Etienne Jacob,,Paris,etin.jacob@gmail.com,False,,21,1071,20,2016-02-05 17:45:29+00:00
-revolunet,Julien Bouquillon,BETAGOUV,"Paris, France",julien@bouquillon.com,False,"🚀 Push the web forward 
+",9,1995,0,2009-05-31 00:41:16+00:00,1995.0
+gregberge,Greg Bergé,ARGOS,"Paris, France",greg@smooth-code.com,false,"❤️ React & JavaScript — Teacher, speaker.
+My open source projects are trusted by thousand developers around the world.",130,1990,109,2010-05-06 08:31:36+00:00,18.09090909090909
+strapi,strapi,,"Paris, France",hi@strapi.io,false,Build powerful back-end with no effort.,79,1983,0,2016-06-11 11:07:55+00:00,1983.0
+nicolas-grekas,Nicolas Grekas,SYMFONYCORP,"Paris, France",,false,"Submitting features and bug(fixes) @symfony, to make it always faster, easier to use and better designed, uncompromising.
+@ESPCI_Alumni engineer.",108,1958,5,2010-04-14 09:44:17+00:00,326.3333333333333
+gre,@greweb,LEDGERHQ,"Paris, France",,false,👾 👨‍👩‍👦‍👦 👨🏻‍🌾 🌱 🀄️ 🍷 🥖,321,1895,59,2010-02-26 13:44:19+00:00,31.583333333333332
+emilwallner,Emil Wallner,PALETTE,Paris | Nyköping,w@llner.co,true,internet-educated. into machine learning and colorization. maker of palette.fm. former resident at  the google arts & culture lab.,20,1885,435,2015-05-21 10:43:50+00:00,4.323394495412844
+4ian,Florian Rival,GDEVELOPAPP,"Paris, France",,false,Making game building accessible to everyone with @GDevelopApp: the open-source and no-code game engine. Previously: gaming @google.,61,1852,11,2011-12-22 14:27:39+00:00,154.33333333333334
+robbiebarrat,Robbie Barrat,,"Paris, France",robbiebarrat@gmail.com,true,Artist working with new media + AI,19,1849,39,2015-03-03 00:01:03+00:00,46.225
+slorber,Sébastien Lorber,THIS WEEK IN REACT,Paris,,false,"Editor of ThisWeekInReact.com, Docusaurus maintainer",304,1833,30,2011-04-24 22:50:51+00:00,59.12903225806452
+arcanis,Maël Nison,DATADOG,"Paris, France",,false,"Lead maintainer for @yarnpkg 📦🧶
+Staff DevX @DataDog, ex @facebook, @sketchfab, ...",316,1832,0,2011-09-09 07:17:46+00:00,1832.0
+FaridSafi,Farid Safi,LEREACTEUR,"Paris, France",,true,"Co-Founder of Le Reacteur Coding Bootcamp
+#JavaScript #React #React-Native",69,1784,109,2010-09-05 14:00:06+00:00,16.21818181818182
+GitSquared,Gabriel Saillard,CARBONFACT,"Paris, France",gabriel@saillard.dev,false,i dream and write code / engineering @carbonfact ,22,1762,176,2016-12-10 17:39:02+00:00,9.954802259887005
+angristan,Stanislas,BACKEND ENGINEER @QONTO,Paris,,true,tired of computers,230,1758,521,2015-03-28 21:26:45+00:00,3.367816091954023
+Papillard,Boris Paillard,LE WAGON,Paris,boris.paillard@gmail.com,false,CEO @lewagon ,73,1686,6,2012-10-02 12:15:56+00:00,240.85714285714286
+AEFaour,Anas FAOUR,,Paris,,false,Ingénieur d'Etude et Développement Informatique,50,1547,19,2018-11-11 12:33:08+00:00,77.35
+LysandreJik,Lysandre Debut,HUGGING FACE,Paris,hi@lysand.re,false,Head of OSS @huggingface. Open Source developer.,43,1532,65,2017-08-05 17:42:03+00:00,23.21212121212121
+anisayari,Anis AYARI,,Paris Area,,true,Skynet Guru.,92,1511,49,2015-01-03 13:11:38+00:00,30.22
+VincentGarreau,Vincent Garreau,LIVESTORM,"Paris, France",vin.garreau@gmail.com,false,"Co-founder & Principal Engineer
+livestorm.co",15,1494,8,2011-08-05 19:21:16+00:00,166.0
+castorflex,Antoine Merle,QONTO,"Paris, France",merle.antoine@gmail.com,false,android dev @qonto,17,1480,26,2012-01-21 17:34:21+00:00,54.81481481481482
+Genymobile,Genymobile,,"Paris, Lyon, San Francisco",,false,,51,1474,0,2013-01-30 12:47:07+00:00,1474.0
+GuillaumeGomez,Guillaume Gomez,HUAWEI,Paris,guillaume1.gomez@gmail.com,false,"Opensource lover. Rustdoc team leader, member of the Rust dev-tools, documentation and docs.rs teams, GNOME foundation member.",259,1385,3,2012-12-15 14:08:11+00:00,346.25
+gpeyre,Gabriel Peyré,CNRS,Paris,gabriel.peyre@ens.fr,false,"CNRS senior researcher in the DMA, Ecole Normale Supérieure",49,1328,0,2013-09-27 18:48:39+00:00,1328.0
+Unitech,Alexandre Strzelewicz,KEYMETRICS,Paris,,false,PM2 Gatekeeper - Keymetrics Founder,192,1324,416,2011-04-28 20:38:41+00:00,3.175059952038369
+agoncal,Antonio Goncalves,MICROSOFT,Paris,antonio.goncalves@gmail.com,false,"Java Champion mostly working with distributed systems, microservices, Quarkus, MicroProfile, and Java EE",150,1320,26,2011-04-14 13:06:14+00:00,48.888888888888886
+agramfort,Alexandre Gramfort,META,"Paris, France",alexandre.gramfort@m4x.org,false,"Machine Learning researcher @ Meta Reality Labs, scikit-learn core dev, pythonista interested in neuroscience applications",173,1300,176,2009-12-02 20:23:59+00:00,7.344632768361582
+JosePaumard,José Paumard,ORACLE,Paris,Jose.Paumard@gmail.com,false,Java DevRel Advocate @Oracle,40,1291,1,2012-05-20 16:35:23+00:00,645.5
+aaugustin,Aymeric Augustin,QONTO,"Paris, France",,false,,18,1289,0,2011-05-15 08:48:57+00:00,1289.0
+Kakise,Kakise,,"Paris, France",,false,C++/TypeScript/Python,63,1283,28202,2016-04-24 18:32:12+00:00,0.04549161436726589
+rom1v,Romain Vimont,VIDEOLABS,"Paris, France",,false,scrcpy author & VLC developer,79,1281,96,2011-01-01 11:57:54+00:00,13.206185567010309
+nadimkobeissi,Nadim Kobeissi,"SYMBOLICSOFT, @CURE53BERLIN","Paris, France",n@nadim.email,false,,19,1243,21,2008-05-11 15:45:57+00:00,56.5
+vincentbernat,Vincent Bernat,FREE,"Paris, France",vincent@bernat.ch,false,,412,1108,5,2011-02-22 07:20:26+00:00,184.66666666666666
+groue,Gwendal Roué,PIERLIS,"Paris, France",gr@pierlis.com,false,"iOS app developer, and author of a few open source libraries",67,1093,12,2009-02-13 10:40:13+00:00,84.07692307692308
+dimitri,Dimitri Fontaine,CITUSDATA,"Paris, France",dim@tapoueh.org,false,"PostgreSQL Major Contributor (Extensions, Event Triggers, pgloader, pg_auto_failover, pgcopydb, ...), working at @citusdata.",69,1089,12,2009-07-08 14:32:54+00:00,83.76923076923077
+Bleuje,Etienne Jacob,,Paris,etin.jacob@gmail.com,false,,21,1071,20,2016-02-05 17:45:29+00:00,51.0
+revolunet,Julien Bouquillon,BETAGOUV,"Paris, France",julien@bouquillon.com,false,"🚀 Push the web forward 
 
-#web #OSS #OpenData #JavaScript #ReactJS #k8s #python #frenchy #Paris10 #SSD #SocialGouv",608,1069,509,2009-09-09 14:24:58+00:00
-r4j0x00,rajvardhan agarwal,APPLE,"Paris, France",,False,,19,1063,0,2017-08-25 12:19:04+00:00
-Cadene,Remi,HUGGINGFACE,Paris,,True,,102,1059,131,2013-06-12 17:33:19+00:00
-zama-ai,Zama,,Paris,hello@zama.ai,False,Zama is an open source cryptography company building state-of-the-art FHE solutions for blockchain and AI.,51,1032,0,2019-11-12 13:46:13+00:00
-glample,Guillaume Lample,FACEBOOK AI RESEARCH,Paris,guillaume.lample@gmail.com,False,"Research Scientist at Facebook AI Research. Working on unsupervised machine translation, symbolic mathematics and theorem proving.",28,1029,13,2014-09-23 19:28:07+00:00
-lopspower,Lopez Mikhael,BRUTMEDIA,"Paris, France",lopez.mikhael@gmail.com,False,"Head of Engineering @BrutMedia 🎥 • ex CANAL+ • Open source enthusiast 🚀 • Love Coffee, Pokémon & Crossfit 🏋️",21,1022,82,2013-05-29 17:53:02+00:00
-rossant,Cyrille Rossant,INT-BRAIN-LAB @CORTEX-LAB,Paris,,False,Neuroscience researcher and software engineer,76,968,696,2012-07-09 11:30:06+00:00
-lroudge,,,Paris,,False,,20,965,6,2018-10-25 20:47:01+00:00
-42School,42 Born2code,,Paris,staff@42.fr,False,,34,941,0,2013-10-22 22:42:13+00:00
-ahmedbesbes,Ahmed BESBES,,Paris - France,,False,"Data Scientist,
+#web #OSS #OpenData #JavaScript #ReactJS #k8s #python #frenchy #Paris10 #SSD #SocialGouv",608,1069,509,2009-09-09 14:24:58+00:00,2.096078431372549
+r4j0x00,rajvardhan agarwal,APPLE,"Paris, France",,false,,19,1063,0,2017-08-25 12:19:04+00:00,1063.0
+Cadene,Remi,HUGGINGFACE,Paris,,true,,102,1059,131,2013-06-12 17:33:19+00:00,8.022727272727273
+zama-ai,Zama,,Paris,hello@zama.ai,false,Zama is an open source cryptography company building state-of-the-art FHE solutions for blockchain and AI.,51,1032,0,2019-11-12 13:46:13+00:00,1032.0
+glample,Guillaume Lample,FACEBOOK AI RESEARCH,Paris,guillaume.lample@gmail.com,false,"Research Scientist at Facebook AI Research. Working on unsupervised machine translation, symbolic mathematics and theorem proving.",28,1029,13,2014-09-23 19:28:07+00:00,73.5
+lopspower,Lopez Mikhael,BRUTMEDIA,"Paris, France",lopez.mikhael@gmail.com,false,"Head of Engineering @BrutMedia 🎥 • ex CANAL+ • Open source enthusiast 🚀 • Love Coffee, Pokémon & Crossfit 🏋️",21,1022,82,2013-05-29 17:53:02+00:00,12.313253012048193
+rossant,Cyrille Rossant,INT-BRAIN-LAB @CORTEX-LAB,Paris,,false,Neuroscience researcher and software engineer,76,968,696,2012-07-09 11:30:06+00:00,1.3888091822094693
+lroudge,,,Paris,,false,,20,965,6,2018-10-25 20:47:01+00:00,137.85714285714286
+42School,42 Born2code,,Paris,staff@42.fr,false,,34,941,0,2013-10-22 22:42:13+00:00,941.0
+ahmedbesbes,Ahmed BESBES,,Paris - France,,false,"Data Scientist,
 Deep learning practitioner,
 Blogger,
-Obsessed with neat design and automation ",80,920,68,2013-12-26 21:51:07+00:00
-simoninithomas,Thomas Simonini,HUGGINGFACE,"Paris, France",,True,"Developer Advocacy @huggingface 🤗
+Obsessed with neat design and automation ",80,920,68,2013-12-26 21:51:07+00:00,13.333333333333334
+simoninithomas,Thomas Simonini,HUGGINGFACE,"Paris, France",,true,"Developer Advocacy @huggingface 🤗
 Love building products using NLP and RL 
 
-Founded Deep Reinforcement Learning course 📚 bit.ly/34fMhwc",75,917,5,2015-06-28 16:28:49+00:00
-antonioribeiro,Antonio Ribeiro,AREA17,"Paris, France",acr@antoniocarlosribeiro.com,False,,267,916,2,2013-01-04 05:11:01+00:00
-andrewssobral,Andrews Cordolino Sobral,ACTIVEEON,"Paris, France",,True,"Head of AI at ActiveEon, Paris - France. Ph.D. on Computer Vision and Machine Learning. Computer Vision Specialist. Experienced C++ and Python Developer.",165,892,467,2010-11-16 01:01:53+00:00
-SylvainCorlay,Sylvain Corlay,QUANTSTACK,Paris,,False,"@Jupyter core team member,
+Founded Deep Reinforcement Learning course 📚 bit.ly/34fMhwc",75,917,5,2015-06-28 16:28:49+00:00,152.83333333333334
+antonioribeiro,Antonio Ribeiro,AREA17,"Paris, France",acr@antoniocarlosribeiro.com,false,,267,916,2,2013-01-04 05:11:01+00:00,305.3333333333333
+andrewssobral,Andrews Cordolino Sobral,ACTIVEEON,"Paris, France",,true,"Head of AI at ActiveEon, Paris - France. Ph.D. on Computer Vision and Machine Learning. Computer Vision Specialist. Experienced C++ and Python Developer.",165,892,467,2010-11-16 01:01:53+00:00,1.9059829059829059
+SylvainCorlay,Sylvain Corlay,QUANTSTACK,Paris,,false,"@Jupyter core team member,
 @xtensor-stack co-author,
 @QuantStack founder,
-@NumFOCUS board member",449,890,222,2012-09-22 05:32:45+00:00
-mratsim,Mamy Ratsimbazafy,,Paris,mamy_github@numforge.co,True,"Ethereum Blockchain R&D ✦ ZK Cryptography Engineering ✦ Data Scientist ✦ High Performance, Parallel, Scientific and GPU computing",52,886,409,2016-10-10 05:51:25+00:00
-guillaumekln,Guillaume Klein,APPLE,"Paris, France",,False,Machine Learning Engineer,6,886,0,2013-06-24 18:17:12+00:00
-Robpayot,Robin payot,,Paris,,False,,29,886,6,2013-10-02 10:05:51+00:00
-Shipow,Kevin Granger,UX DEVSIGNER @ALGOLIA,Paris – SF,,False,I design tools for developers @algolia and attack ships on fire off the shoulder of Orion,158,851,5394,2011-08-12 14:18:50+00:00
-simple-login,SimpleLogin,,Paris,hi@simplelogin.io,False,SimpleLogin - protect your online privacy.,21,820,0,2019-06-17 09:59:20+00:00
-mbeaudru,Manuel Beaudru,DATADOG,Paris,,False,"Github Modern JS Cheatsheet author ✏️ 
-JavaScript and React developer ⚛️ ",39,813,12,2014-09-27 22:47:50+00:00
-arv,Erik Arvidsson,ROCICORP,Paris,erik.arvidsson@gmail.com,False,,109,802,13,2009-01-12 00:08:56+00:00
-mgcrea,Olivier Louvignes,FREELANCE,"Paris, France",olivier@mgcrea.io,True,,306,789,136,2009-07-24 09:50:40+00:00
-GravenilvecTV,Graven | Developpement,,Paris,gravenilvec@gmail.com,False,,51,786,31,2016-06-09 13:38:57+00:00
-Hackndo,Pixis,LOGIN SÉCURITÉ,Paris,pixis@hackndo.com,False,"Security blog author https://hackndo.com
-",78,778,1,2015-02-17 22:18:40+00:00
-patrickheng,Patrick HENG,FREELANCE,Paris,hengpatrick.pro@gmail.com,True,"Creative developer • Former Active Theory, Merci-Michel, Grouek, SweetPunk, Gobelins Paris, HETIC",18,776,161,2014-10-07 13:11:03+00:00
-eliemichel,Elie Michel,ADOBE RESEARCH,Paris,,False,Computer Graphics research and teaching.,170,773,18,2013-10-29 10:51:09+00:00
-bzg,Bastien,CODEGOUVFR,Paris,,False,"Free software officer for the French public administration.
+@NumFOCUS board member",449,890,222,2012-09-22 05:32:45+00:00,3.991031390134529
+mratsim,Mamy Ratsimbazafy,,Paris,mamy_github@numforge.co,true,"Ethereum Blockchain R&D ✦ ZK Cryptography Engineering ✦ Data Scientist ✦ High Performance, Parallel, Scientific and GPU computing",52,886,409,2016-10-10 05:51:25+00:00,2.1609756097560977
+guillaumekln,Guillaume Klein,APPLE,"Paris, France",,false,Machine Learning Engineer,6,886,0,2013-06-24 18:17:12+00:00,886.0
+Robpayot,Robin payot,,Paris,,false,,29,886,6,2013-10-02 10:05:51+00:00,126.57142857142857
+Shipow,Kevin Granger,UX DEVSIGNER @ALGOLIA,Paris – SF,,false,I design tools for developers @algolia and attack ships on fire off the shoulder of Orion,158,851,5394,2011-08-12 14:18:50+00:00,0.1577386468952734
+simple-login,SimpleLogin,,Paris,hi@simplelogin.io,false,SimpleLogin - protect your online privacy.,21,820,0,2019-06-17 09:59:20+00:00,820.0
+mbeaudru,Manuel Beaudru,DATADOG,Paris,,false,"Github Modern JS Cheatsheet author ✏️ 
+JavaScript and React developer ⚛️ ",39,813,12,2014-09-27 22:47:50+00:00,62.53846153846154
+arv,Erik Arvidsson,ROCICORP,Paris,erik.arvidsson@gmail.com,false,,109,802,13,2009-01-12 00:08:56+00:00,57.285714285714285
+mgcrea,Olivier Louvignes,FREELANCE,"Paris, France",olivier@mgcrea.io,true,,306,789,136,2009-07-24 09:50:40+00:00,5.759124087591241
+GravenilvecTV,Graven | Developpement,,Paris,gravenilvec@gmail.com,false,,51,786,31,2016-06-09 13:38:57+00:00,24.5625
+Hackndo,Pixis,LOGIN SÉCURITÉ,Paris,pixis@hackndo.com,false,"Security blog author https://hackndo.com
+",78,778,1,2015-02-17 22:18:40+00:00,389.0
+patrickheng,Patrick HENG,FREELANCE,Paris,hengpatrick.pro@gmail.com,true,"Creative developer • Former Active Theory, Merci-Michel, Grouek, SweetPunk, Gobelins Paris, HETIC",18,776,161,2014-10-07 13:11:03+00:00,4.790123456790123
+eliemichel,Elie Michel,ADOBE RESEARCH,Paris,,false,Computer Graphics research and teaching.,170,773,18,2013-10-29 10:51:09+00:00,40.68421052631579
+bzg,Bastien,CODEGOUVFR,Paris,,false,"Free software officer for the French public administration.
 
-Active on https://sr.ht/~bzg/",97,765,506,2009-03-14 21:37:56+00:00
-glemaitre,Guillaume Lemaitre,OPEN-SOURCE ENGINEER @PROBABL-AI,Paris-Saclay / France,guillaume@probabl.ai,False,,270,764,156,2014-04-30 22:12:28+00:00
-xavierleroy,Xavier Leroy,COLLÈGE DE FRANCE AND INRIA,"Paris, France",,False,"Professor of software sciences at Collège de France, Paris.  Member of Inria research team Cambium. Interested in all scientific aspects of computer programming",27,761,0,2013-03-12 18:33:21+00:00
-mlabouardy,LABOUARDY Mohamed,TAILWARDEN,"Paris, France",mohamed@labouardy.com,True,"CTO & Co-Founder @tailwarden  - Maker & Indie Entrepreneur @Komiser.io, Author and Speaker",208,759,1,2014-12-27 02:48:42+00:00
-lyrixx,Grégoire Pineau,JOLICODE,"Paris, France",,False,"DevOps @jolicode @redirectionio ; 
+Active on https://sr.ht/~bzg/",97,765,506,2009-03-14 21:37:56+00:00,1.5088757396449703
+glemaitre,Guillaume Lemaitre,OPEN-SOURCE ENGINEER @PROBABL-AI,Paris-Saclay / France,guillaume@probabl.ai,false,,270,764,156,2014-04-30 22:12:28+00:00,4.86624203821656
+xavierleroy,Xavier Leroy,COLLÈGE DE FRANCE AND INRIA,"Paris, France",,false,"Professor of software sciences at Collège de France, Paris.  Member of Inria research team Cambium. Interested in all scientific aspects of computer programming",27,761,0,2013-03-12 18:33:21+00:00,761.0
+mlabouardy,LABOUARDY Mohamed,TAILWARDEN,"Paris, France",mohamed@labouardy.com,true,"CTO & Co-Founder @tailwarden  - Maker & Indie Entrepreneur @Komiser.io, Author and Speaker",208,759,1,2014-12-27 02:48:42+00:00,379.5
+lyrixx,Grégoire Pineau,JOLICODE,"Paris, France",,false,"DevOps @jolicode @redirectionio ; 
 @symfony Core Team
-",339,753,34,2010-09-20 14:04:48+00:00
-MysteriousSonOfGod,Juste Elysée M.,ERMANUS EWECKHANAH,Paris (France),,False,"💻📚 Code Seer👨‍💻, creator,...$:>Python, Javascript, Css3, Html5,...  
-#♞⏱️🎹🔬,...",1097,745,11836,2018-12-09 08:36:12+00:00
-tdd,Christophe Porteneuve,DELICIOUS INSIGHTS,"Paris, France",tdd@tddsworld.com,False,"Dad, programmer, husband, entrepreneur, friend, speaker, ally, author. I train ppl on JS/Node and Git[Hub], build B2B SaaS, & call out bigots of all kinds.",71,741,0,2008-03-25 18:39:22+00:00
-openfoodfacts,Open Food Facts,,"Paris, France",contact@openfoodfacts.org,False,"Open Food Facts is a collaborative, free and open database of food products from around the world.",109,738,0,2012-07-08 08:17:38+00:00
-dgageot,David Gageot,DOCKER,"Paris, France",david@gageot.net,False,I run Docker in Docker in Docker...,224,729,0,2009-11-15 09:58:35+00:00
-ibelick,Julien Thibeaut,,Paris,,True,,56,723,19,2015-09-15 06:01:09+00:00
-ArthurSonzogni,Arthur Sonzogni,,Paris,,True,"Love C++.
+",339,753,34,2010-09-20 14:04:48+00:00,21.514285714285716
+MysteriousSonOfGod,Juste Elysée M.,ERMANUS EWECKHANAH,Paris (France),,false,"💻📚 Code Seer👨‍💻, creator,...$:>Python, Javascript, Css3, Html5,...  
+#♞⏱️🎹🔬,...",1097,745,11836,2018-12-09 08:36:12+00:00,0.06293824448762356
+tdd,Christophe Porteneuve,DELICIOUS INSIGHTS,"Paris, France",tdd@tddsworld.com,false,"Dad, programmer, husband, entrepreneur, friend, speaker, ally, author. I train ppl on JS/Node and Git[Hub], build B2B SaaS, & call out bigots of all kinds.",71,741,0,2008-03-25 18:39:22+00:00,741.0
+openfoodfacts,Open Food Facts,,"Paris, France",contact@openfoodfacts.org,false,"Open Food Facts is a collaborative, free and open database of food products from around the world.",109,738,0,2012-07-08 08:17:38+00:00,738.0
+dgageot,David Gageot,DOCKER,"Paris, France",david@gageot.net,false,I run Docker in Docker in Docker...,224,729,0,2009-11-15 09:58:35+00:00,729.0
+ibelick,Julien Thibeaut,,Paris,,true,,56,723,19,2015-09-15 06:01:09+00:00,36.15
+ArthurSonzogni,Arthur Sonzogni,,Paris,,true,"Love C++.
 - Image rendering / analysis.
 - Ascii art / TUI. 
-- Games",136,715,78,2013-06-21 11:24:19+00:00
-ANSSI-FR,ANSSI,,"Paris, France",opensource@ssi.gouv.fr,False,,71,705,0,2012-07-04 09:13:48+00:00
-zoontek,Mathieu Acthernoene,SWAN,Paris,,False,Curious developer.,70,693,55,2012-06-28 12:43:58+00:00
-nkallen,Nick Kallen,SELF-EMPLOYED,Paris,,False,,69,693,13,2008-02-23 20:04:18+00:00
-JoanZapata,Joan Zapata,MEMO BANK,Paris,zapata.joan@gmail.com,True,,44,690,20,2011-03-17 15:47:32+00:00
-stephane-caron,Stéphane Caron,INRIA,Paris,stephane.caron@inria.fr,False,Likes open source robots.,44,675,190,2011-11-11 23:40:12+00:00
-vdemeester,Vincent Demeester,RED HAT,"Paris, France",vdemeest@redhat.com,False,"french developer, sysadmin, factotum and free-software fan and a dad 👶🏼 ",228,669,168,2008-04-11 06:56:22+00:00
-nabla-c0d3,Alban Diquet,,Paris & San Francisco,nabla.c0d3@gmail.com,False,,30,661,37,2012-07-02 17:53:22+00:00
-andrewmd5,andrew,USWRITING,New York / Paris,,True,an unconventional founder,89,661,27,2012-01-01 02:50:50+00:00
-fraxken,Thomas.G,MYUNISOFT,Paris,,True,"API & Node.js lead at @MyUnisoft. @nodejs Security Collaborator. @NodeSecure, @OpenAlly, @TopCli  core maintainer.",61,659,171,2013-05-15 13:56:14+00:00
-davidebbo,David Ebbo,,"Paris, France",,False,Worked at Microsoft and Google. Now hanging out in Paris!,98,659,1,2011-01-10 20:27:04+00:00
-guillaumegenthial,Guillaume Genthial,FRAGMENT,Paris,,True,Building @checkfragment with @omoindrot ,28,658,12,2015-06-30 13:22:07+00:00
-steeve,Steeve Morin,ZML,"Paris, France",,False,@zml ,113,657,1,2009-10-09 15:12:58+00:00
-cjdelisle,Caleb James DeLisle,,Paris France,,False,cjd,115,625,4,2010-12-04 09:17:42+00:00
-pgrimaud,Pierre Grimaud,SEZANE,"Paris, France",,True,Retired Gladiator / Web3 Enthusiast / PHP & Symfony expert / Powered by Caffeine / SSE @sezane ,114,615,69,2012-06-19 07:59:34+00:00
-DoubangoTelecom,,DOUBANGO TELECOM,Paris (France),github@doubango.org,False,,47,610,0,2015-06-21 06:28:07+00:00
-mcombeau,Mia Combeau,42SCHOOL,"Paris, France",,False,"Student at 42 Paris, and digital world explorer, I write about my journey through the sea of code at codequoi.com.
+- Games",136,715,78,2013-06-21 11:24:19+00:00,9.050632911392405
+ANSSI-FR,ANSSI,,"Paris, France",opensource@ssi.gouv.fr,false,,71,705,0,2012-07-04 09:13:48+00:00,705.0
+zoontek,Mathieu Acthernoene,SWAN,Paris,,false,Curious developer.,70,693,55,2012-06-28 12:43:58+00:00,12.375
+nkallen,Nick Kallen,SELF-EMPLOYED,Paris,,false,,69,693,13,2008-02-23 20:04:18+00:00,49.5
+JoanZapata,Joan Zapata,MEMO BANK,Paris,zapata.joan@gmail.com,true,,44,690,20,2011-03-17 15:47:32+00:00,32.857142857142854
+stephane-caron,Stéphane Caron,INRIA,Paris,stephane.caron@inria.fr,false,Likes open source robots.,44,675,190,2011-11-11 23:40:12+00:00,3.5340314136125652
+vdemeester,Vincent Demeester,RED HAT,"Paris, France",vdemeest@redhat.com,false,"french developer, sysadmin, factotum and free-software fan and a dad 👶🏼 ",228,669,168,2008-04-11 06:56:22+00:00,3.9585798816568047
+nabla-c0d3,Alban Diquet,,Paris & San Francisco,nabla.c0d3@gmail.com,false,,30,661,37,2012-07-02 17:53:22+00:00,17.394736842105264
+andrewmd5,andrew,USWRITING,New York / Paris,,true,an unconventional founder,89,661,27,2012-01-01 02:50:50+00:00,23.607142857142858
+fraxken,Thomas.G,MYUNISOFT,Paris,,true,"API & Node.js lead at @MyUnisoft. @nodejs Security Collaborator. @NodeSecure, @OpenAlly, @TopCli  core maintainer.",61,659,171,2013-05-15 13:56:14+00:00,3.8313953488372094
+davidebbo,David Ebbo,,"Paris, France",,false,Worked at Microsoft and Google. Now hanging out in Paris!,98,659,1,2011-01-10 20:27:04+00:00,329.5
+guillaumegenthial,Guillaume Genthial,FRAGMENT,Paris,,true,Building @checkfragment with @omoindrot ,28,658,12,2015-06-30 13:22:07+00:00,50.61538461538461
+steeve,Steeve Morin,ZML,"Paris, France",,false,@zml ,113,657,1,2009-10-09 15:12:58+00:00,328.5
+cjdelisle,Caleb James DeLisle,,Paris France,,false,cjd,115,625,4,2010-12-04 09:17:42+00:00,125.0
+pgrimaud,Pierre Grimaud,SEZANE,"Paris, France",,true,Retired Gladiator / Web3 Enthusiast / PHP & Symfony expert / Powered by Caffeine / SSE @sezane ,114,615,69,2012-06-19 07:59:34+00:00,8.785714285714286
+DoubangoTelecom,,DOUBANGO TELECOM,Paris (France),github@doubango.org,false,,47,610,0,2015-06-21 06:28:07+00:00,610.0
+mcombeau,Mia Combeau,42SCHOOL,"Paris, France",,false,"Student at 42 Paris, and digital world explorer, I write about my journey through the sea of code at codequoi.com.
 
-Intra login: mcombeau",31,595,589,2019-06-19 17:15:29+00:00
-teh-cmc,Clement Rey,RERUN-IO,"Paris, France",cr.rey.clement@gmail.com,False,"interests: systems prog, performance, DOD, everything real-time 3D, Rust, Zig, C, Vulkan, WebGPU...",49,592,733,2012-11-28 10:14:40+00:00
-0intro,David du Colombier,"DATADOG, EX-@VIDEOLABS","Paris, France",,False,Programmer,43,591,13,2013-11-26 19:23:09+00:00
-alelievr,Antoine Lelievre,,Paris,,False,,69,588,3,2014-03-06 22:48:05+00:00
-Haroenv,Haroen Viaene,ALGOLIA,"Paris, France",hello@haroen.me,False,"Working on an even better search experience @algolia. 
+Intra login: mcombeau",31,595,589,2019-06-19 17:15:29+00:00,1.0084745762711864
+teh-cmc,Clement Rey,RERUN-IO,"Paris, France",cr.rey.clement@gmail.com,false,"interests: systems prog, performance, DOD, everything real-time 3D, Rust, Zig, C, Vulkan, WebGPU...",49,592,733,2012-11-28 10:14:40+00:00,0.8065395095367848
+0intro,David du Colombier,"DATADOG, EX-@VIDEOLABS","Paris, France",,false,Programmer,43,591,13,2013-11-26 19:23:09+00:00,42.214285714285715
+alelievr,Antoine Lelievre,,Paris,,false,,69,588,3,2014-03-06 22:48:05+00:00,147.0
+Haroenv,Haroen Viaene,ALGOLIA,"Paris, France",hello@haroen.me,false,"Working on an even better search experience @algolia. 
 Making shit happen @bullgit. 
 feminist.
-Belgian",793,572,110,2013-12-27 10:01:33+00:00
-KOUISAmine,Amine KOUIS ,BACKEND DEVELOPER,Paris,amine.kouis@etu.u-pec.fr,True," Backend Developer who love  PHP7/Symfony, and love writing contributing to  OSS",455,570,4,2017-01-15 01:27:05+00:00
-cderv,Christophe Dervieux,HTTPS://POSIT.CO,Paris,christophe.dervieux@gmail.com,False,software engineer at @posit-pbc working on R Markdown ecosystem and @quarto-dev ,314,564,43,2014-02-26 09:15:59+00:00
-Orange-OpenSource,Orange,,"Paris, France",,False,Open Source by Orange,377,555,0,2012-03-06 10:09:02+00:00
-samirsaci,Samir Saci,,Paris,,True,"Senior Supply Chain Engineer, Blogger who shares tips to use Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈",44,555,2,2021-01-23 20:08:17+00:00
-lovasoa,Ophir LOJKINE,AUTO-GRID @ENEXFLOW,"Paris, France",,True,"CTO @enexflow,
-Senior Software engineer @Uplight-Inc, ex-@Qwant",327,544,17,2011-01-07 23:06:48+00:00
-davidgohel,David Gohel,ARDATA,Paris,,False,,37,541,77,2013-05-03 13:31:42+00:00
-forax,Rémi Forax,UNIVERSITY GUSTAVE EIFFEL (PARIS),"Paris, France",,False,,112,540,0,2011-06-03 19:02:05+00:00
-helaili,Alain Hélaïli,GITHUB,Paris,helaili@github.com,False,"I'm a githubber, trying to spread the good word and ❤️  for the :octocat: ",65,536,4,2012-11-13 14:07:34+00:00
-baptisteArno,Baptiste Arnaud,,"Paris, France",,False,Software Engineer. Founder of Typebot.,112,535,58,2015-11-25 11:20:03+00:00
-acids-ircam,ACIDS,IRCAM,Paris,,False,Artificial Creative Intelligence and Data Science,25,533,1,2018-04-09 11:08:57+00:00
-Litarvan,Adrien Navratil,STOCKLY,"Paris, France",adrien1975@live.fr,False,23yo enthusiastic developer # Discord : litarvan,101,524,311,2014-09-09 16:25:35+00:00
-Kerollmops,Clément Renault,MEILISEARCH,"France, Paris",clement@meilisearch.com,False,I am the co-founder and CTO of @meilisearch. I learned coding at the Paris @42school. I live in Paris and love video games.,197,522,202,2013-02-16 10:55:57+00:00
-Wenzel,Mathieu Tarral,,"Paris, France",mathieu.tarral@protonmail.com,True,"Security Researcher | VMI
-hypervisor-level debugger",133,521,174,2011-08-07 15:14:31+00:00
-vinayak-mehta,Vinayak Mehta,,Paris,vmehta94@gmail.com,True,Working on open source tools,88,516,25,2013-05-03 08:12:29+00:00
-koutto,Koutto,,Paris,,False,"Jérémy Brun-Nouvion |
-Hacker, France",20,514,61,2017-03-10 14:08:40+00:00
-augustin7698,augustin j,,Paris,,True,French programmer who code sometimes,22,510,8,2021-07-05 10:51:29+00:00
-guillaumebort,Guillaume Bort,DATADOG,Paris,guillaume.bort@gmail.com,False,"Creator of @playframework - Previously @INRIA, @zengularity, @lightbend, @prismicio, @criteo - Now working on data ingestion & processing at @DataDog",25,508,0,2009-06-12 09:46:51+00:00
-glaforge,Guillaume Laforge,GOOGLE,"Paris, France",glaforge@gmail.com,False,"Developer Advocate at Google for Google Cloud Platform, and co-founder of the Apache Groovy programming language project.",109,502,0,2009-01-20 10:12:53+00:00
-marcomiduri,Marco M,"WEBPOINT SOLUTIONS, LLC","Paris, FR",,True,"Senior Full-Stack Engineer at Webpoint Solutions, LLC
-https://webpoint.io/",11,498,1394,2019-05-31 09:07:47+00:00
-samhocevar,Sam Hocevar,DONTNOD,"Paris, France",sam@hocevar.net,False,"Developer or past developer for Debian, VLC, GNOME, libcaca, zzuf, wincompose, also Remember Me, Life Is Strange, Vampyr…",38,498,1,2010-04-15 23:39:15+00:00
-spolu,Stanislas Polu,DUST,Paris,,False,,61,489,50,2008-06-26 00:37:24+00:00
-traex,Robin Chutaux,SCALEWAY,"Paris, France",,False,,8,489,3,2012-12-28 23:37:30+00:00
-42Paris,42 Paris,,Paris,,False,42 Paris,9,487,0,2020-04-03 15:31:22+00:00
-briatte,François Briatte,,"Lille / Paris, France",,False,"Political scientist interested in network analysis. Speaks English, French, R, Stata.",102,486,143,2010-07-04 15:31:34+00:00
-beyhosni,Hosni,,Paris,beyhosni@gmail.com,True, Full Stack Engineer,131,484,2503,2016-03-06 11:50:44+00:00
-LukyVj,Lucas Bonomi,ALGOLIA,Paris,lucas.bonomi@gmail.com,False,"Senior Frontend Engineer @algolia | APIs, CSS, Node, React",170,483,160,2012-04-10 17:06:42+00:00
-sofienkaabar,Sofien KAABAR,,"Paris, France",,False,"That weirdo from Medium who keeps publishing articles every 5 minutes.
-",8,482,0,2021-06-24 16:48:02+00:00
-superguigui,Guillaume Gouessan,FREELANCE,Paris and Luxembourg,guillaume.gouessan@gmail.com,False,Creative front-end developer,43,481,54,2010-09-15 11:04:35+00:00
-sebsto,Sébastien Stormacq,AMAZON WEB SERVICES,Paris,sebastien.stormacq@gmail.com,False,"Developer Evangelist, AWS",100,478,12,2010-09-16 06:52:12+00:00
-hadrienj,Hadrien Jean,,"Paris, France",code.datascience@gmail.com,True,"Data and Machine Learning Scientist at Iaudiogram.
+Belgian",793,572,110,2013-12-27 10:01:33+00:00,5.153153153153153
+KOUISAmine,Amine KOUIS ,BACKEND DEVELOPER,Paris,amine.kouis@etu.u-pec.fr,true," Backend Developer who love  PHP7/Symfony, and love writing contributing to  OSS",455,570,4,2017-01-15 01:27:05+00:00,114.0
+cderv,Christophe Dervieux,HTTPS://POSIT.CO,Paris,christophe.dervieux@gmail.com,false,software engineer at @posit-pbc working on R Markdown ecosystem and @quarto-dev ,314,564,43,2014-02-26 09:15:59+00:00,12.818181818181818
+Orange-OpenSource,Orange,,"Paris, France",,false,Open Source by Orange,377,555,0,2012-03-06 10:09:02+00:00,555.0
+samirsaci,Samir Saci,,Paris,,true,"Senior Supply Chain Engineer, Blogger who shares tips to use Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈",44,555,2,2021-01-23 20:08:17+00:00,185.0
+lovasoa,Ophir LOJKINE,AUTO-GRID @ENEXFLOW,"Paris, France",,true,"CTO @enexflow,
+Senior Software engineer @Uplight-Inc, ex-@Qwant",327,544,17,2011-01-07 23:06:48+00:00,30.22222222222222
+davidgohel,David Gohel,ARDATA,Paris,,false,,37,541,77,2013-05-03 13:31:42+00:00,6.935897435897436
+forax,Rémi Forax,UNIVERSITY GUSTAVE EIFFEL (PARIS),"Paris, France",,false,,112,540,0,2011-06-03 19:02:05+00:00,540.0
+helaili,Alain Hélaïli,GITHUB,Paris,helaili@github.com,false,"I'm a githubber, trying to spread the good word and ❤️  for the :octocat: ",65,536,4,2012-11-13 14:07:34+00:00,107.2
+baptisteArno,Baptiste Arnaud,,"Paris, France",,false,Software Engineer. Founder of Typebot.,112,535,58,2015-11-25 11:20:03+00:00,9.067796610169491
+acids-ircam,ACIDS,IRCAM,Paris,,false,Artificial Creative Intelligence and Data Science,25,533,1,2018-04-09 11:08:57+00:00,266.5
+Litarvan,Adrien Navratil,STOCKLY,"Paris, France",adrien1975@live.fr,false,23yo enthusiastic developer # Discord : litarvan,101,524,311,2014-09-09 16:25:35+00:00,1.6794871794871795
+Kerollmops,Clément Renault,MEILISEARCH,"France, Paris",clement@meilisearch.com,false,I am the co-founder and CTO of @meilisearch. I learned coding at the Paris @42school. I live in Paris and love video games.,197,522,202,2013-02-16 10:55:57+00:00,2.5714285714285716
+Wenzel,Mathieu Tarral,,"Paris, France",mathieu.tarral@protonmail.com,true,"Security Researcher | VMI
+hypervisor-level debugger",133,521,174,2011-08-07 15:14:31+00:00,2.9771428571428573
+vinayak-mehta,Vinayak Mehta,,Paris,vmehta94@gmail.com,true,Working on open source tools,88,516,25,2013-05-03 08:12:29+00:00,19.846153846153847
+koutto,Koutto,,Paris,,false,"Jérémy Brun-Nouvion |
+Hacker, France",20,514,61,2017-03-10 14:08:40+00:00,8.290322580645162
+augustin7698,augustin j,,Paris,,true,French programmer who code sometimes,22,510,8,2021-07-05 10:51:29+00:00,56.666666666666664
+guillaumebort,Guillaume Bort,DATADOG,Paris,guillaume.bort@gmail.com,false,"Creator of @playframework - Previously @INRIA, @zengularity, @lightbend, @prismicio, @criteo - Now working on data ingestion & processing at @DataDog",25,508,0,2009-06-12 09:46:51+00:00,508.0
+glaforge,Guillaume Laforge,GOOGLE,"Paris, France",glaforge@gmail.com,false,"Developer Advocate at Google for Google Cloud Platform, and co-founder of the Apache Groovy programming language project.",109,502,0,2009-01-20 10:12:53+00:00,502.0
+marcomiduri,Marco M,"WEBPOINT SOLUTIONS, LLC","Paris, FR",,true,"Senior Full-Stack Engineer at Webpoint Solutions, LLC
+https://webpoint.io/",11,498,1394,2019-05-31 09:07:47+00:00,0.35698924731182796
+samhocevar,Sam Hocevar,DONTNOD,"Paris, France",sam@hocevar.net,false,"Developer or past developer for Debian, VLC, GNOME, libcaca, zzuf, wincompose, also Remember Me, Life Is Strange, Vampyr…",38,498,1,2010-04-15 23:39:15+00:00,249.0
+spolu,Stanislas Polu,DUST,Paris,,false,,61,489,50,2008-06-26 00:37:24+00:00,9.588235294117647
+traex,Robin Chutaux,SCALEWAY,"Paris, France",,false,,8,489,3,2012-12-28 23:37:30+00:00,122.25
+42Paris,42 Paris,,Paris,,false,42 Paris,9,487,0,2020-04-03 15:31:22+00:00,487.0
+briatte,François Briatte,,"Lille / Paris, France",,false,"Political scientist interested in network analysis. Speaks English, French, R, Stata.",102,486,143,2010-07-04 15:31:34+00:00,3.375
+beyhosni,Hosni,,Paris,beyhosni@gmail.com,true, Full Stack Engineer,131,484,2503,2016-03-06 11:50:44+00:00,0.19329073482428116
+LukyVj,Lucas Bonomi,ALGOLIA,Paris,lucas.bonomi@gmail.com,false,"Senior Frontend Engineer @algolia | APIs, CSS, Node, React",170,483,160,2012-04-10 17:06:42+00:00,3.0
+sofienkaabar,Sofien KAABAR,,"Paris, France",,false,"That weirdo from Medium who keeps publishing articles every 5 minutes.
+",8,482,0,2021-06-24 16:48:02+00:00,482.0
+superguigui,Guillaume Gouessan,FREELANCE,Paris and Luxembourg,guillaume.gouessan@gmail.com,false,Creative front-end developer,43,481,54,2010-09-15 11:04:35+00:00,8.745454545454546
+sebsto,Sébastien Stormacq,AMAZON WEB SERVICES,Paris,sebastien.stormacq@gmail.com,false,"Developer Evangelist, AWS",100,478,12,2010-09-16 06:52:12+00:00,36.76923076923077
+hadrienj,Hadrien Jean,,"Paris, France",code.datascience@gmail.com,true,"Data and Machine Learning Scientist at Iaudiogram.
 
 Previously Machine Learning Scientist at Ava.
 
-Previously PhD Student at Ecole Normal Supérieure.",19,477,11,2014-01-12 10:01:31+00:00
-SimonMarquis,Simon Marquis,LEBONCOIN,"Paris, France",contact@simon-marquis.fr,True,Staff Android Engineer,44,474,31,2012-07-04 08:27:58+00:00
-synacktiv,Synacktiv,,Paris - France,,False,,80,473,0,2019-04-30 14:37:31+00:00
-arnaud-lb,Arnaud Le Blanc,,"Paris, France",arnaud.lb@gmail.com,False,,187,471,53,2010-08-15 19:23:03+00:00
-d0iasm,Asami,,"Paris, France",,False,Software Engineer,91,461,0,2015-06-14 06:41:21+00:00
-Nilhcem,Gautier MECHLING,,Paris,nilhcem@gmail.com,False,Android Craftsman,83,449,24,2011-08-31 04:40:13+00:00
-TerrorJack,Cheng Shao,TWEAG,Paris,cheng.shao@moduscreate.com,False,,133,448,244,2013-03-17 11:07:46+00:00
-leon196,Leon,,"Paris, France",,True,tech art,101,446,79,2012-10-08 20:25:49+00:00
-samoht,Thomas Gazagnaire,TARIDES,"Paris, FR",thomas@gazagnaire.org,False,@ocaml @mirage,342,445,159,2009-07-10 16:48:40+00:00
-romainl,Romain Lafourcade,RAZORFISH FRANCE,"Paris, France",romainlafourcade@gmail.com,False,,65,434,8,2010-07-26 10:48:27+00:00
-celine-m-s,Céline MS,,Paris,,False,"Developer, teacher and entrepreneur. And so many things in -er!",64,434,27,2013-12-10 10:49:17+00:00
-eliasdorneles,Elias Dorneles,,Paris,elias.dorneles@hey.com,True,"Programmer, musician and learner of things.
+Previously PhD Student at Ecole Normal Supérieure.",19,477,11,2014-01-12 10:01:31+00:00,39.75
+SimonMarquis,Simon Marquis,LEBONCOIN,"Paris, France",contact@simon-marquis.fr,true,Staff Android Engineer,44,474,31,2012-07-04 08:27:58+00:00,14.8125
+synacktiv,Synacktiv,,Paris - France,,false,,80,473,0,2019-04-30 14:37:31+00:00,473.0
+arnaud-lb,Arnaud Le Blanc,,"Paris, France",arnaud.lb@gmail.com,false,,187,471,53,2010-08-15 19:23:03+00:00,8.722222222222221
+d0iasm,Asami,,"Paris, France",,false,Software Engineer,91,461,0,2015-06-14 06:41:21+00:00,461.0
+Nilhcem,Gautier MECHLING,,Paris,nilhcem@gmail.com,false,Android Craftsman,83,449,24,2011-08-31 04:40:13+00:00,17.96
+TerrorJack,Cheng Shao,TWEAG,Paris,cheng.shao@moduscreate.com,false,,133,448,244,2013-03-17 11:07:46+00:00,1.8285714285714285
+leon196,Leon,,"Paris, France",,true,tech art,101,446,79,2012-10-08 20:25:49+00:00,5.575
+samoht,Thomas Gazagnaire,TARIDES,"Paris, FR",thomas@gazagnaire.org,false,@ocaml @mirage,342,445,159,2009-07-10 16:48:40+00:00,2.78125
+romainl,Romain Lafourcade,RAZORFISH FRANCE,"Paris, France",romainlafourcade@gmail.com,false,,65,434,8,2010-07-26 10:48:27+00:00,48.22222222222222
+celine-m-s,Céline MS,,Paris,,false,"Developer, teacher and entrepreneur. And so many things in -er!",64,434,27,2013-12-10 10:49:17+00:00,15.5
+eliasdorneles,Elias Dorneles,,Paris,elias.dorneles@hey.com,true,"Programmer, musician and learner of things.
 Fan of Python and open source software.
 Writes code in neovim.
-@recursecenter alum",161,431,258,2008-12-01 16:35:25+00:00
-PrestaShop,The PrestaShop Project,,Paris,,False,The universal open-source software platform to build your e-commerce solution.,287,431,0,2012-11-16 17:25:52+00:00
-padenot,Paul Adenot,MOZILLA,"Paris, France",paul@paul.cx,False,"everything audio @mozilla ---
+@recursecenter alum",161,431,258,2008-12-01 16:35:25+00:00,1.664092664092664
+PrestaShop,The PrestaShop Project,,Paris,,false,The universal open-source software platform to build your e-commerce solution.,287,431,0,2012-11-16 17:25:52+00:00,431.0
+padenot,Paul Adenot,MOZILLA,"Paris, France",paul@paul.cx,false,"everything audio @mozilla ---
 
-Not looking for other opportunities at the moment, please refrain from contacting me.",183,429,33,2010-05-07 14:17:32+00:00
-tobozo,tobozo,,"Paris, France ",,False,"≡ᗤ-  I'm the Bozo ෴ bit in your Bogon. DIY IoT/WoT tinkerer, JS/PHP freestack dev, C/C++ novice and tech lover",148,427,456,2012-06-26 11:16:06+00:00
-roubachof,Jean-Marie Alfonsi,SHARPNADO,Paris,jm.alfonsi@gmail.com,True,"My name is Jean-Marie Alfonsi. I am what you could pedantically call a Software Architect, or a Full Stack Developer, or more simply put a software engineer.",61,425,7,2011-02-02 15:01:18+00:00
-gpakosz,Grégory Pakosz,APPLE,"Nantes / Paris, France",,False,"“If you're not appearing, you're disappearing.” — Art Blakey",35,423,16,2011-01-08 13:55:23+00:00
-pommedeterresautee,Michaël Benesty,ELS-RD LEFEBVRE SARRUT,"Paris, France",,False,"Applied ML engineer ; former tax lawyer (@deloitte, Paris) ; former financial auditor (Constantin, NYC) ; former CPA (FC, Paris)",33,420,102,2011-09-06 12:19:45+00:00
-Eschults,Edward Schults,LEWAGON,Paris,,False,,86,420,34,2014-07-07 12:56:46+00:00
-damienvanrobaeys,Damien Van Robaeys,,Paris,damien.vanrobaeys@gmail.com,False,"MVP Microsoft /
-System and Desktop Engineer / Powershell / Deployment / MDT / XAML / Automation",133,416,6,2014-09-19 11:53:07+00:00
-lhoestq,Quentin Lhoest,HUGGING FACE,Paris,,False,"ML Engineer @huggingface |
-Maintainer of 🤗Datasets",17,416,19,2018-08-30 21:50:44+00:00
-guenchi,,,"Paris, France",,False,"Linguist who do not want to be a hacker is not a good novelist.
-Novelist, Poet, Linguist, Phonetician, CreateLanguageExpert,  NLP Expert, Entrepreneur, Gourmet",149,413,11,2017-02-16 22:58:31+00:00
-hhamon,Hugo Hamon,KODERO SAS,"Paris, France",,True,"Senior Software Lead Developer
+Not looking for other opportunities at the moment, please refrain from contacting me.",183,429,33,2010-05-07 14:17:32+00:00,12.617647058823529
+tobozo,tobozo,,"Paris, France ",,false,"≡ᗤ-  I'm the Bozo ෴ bit in your Bogon. DIY IoT/WoT tinkerer, JS/PHP freestack dev, C/C++ novice and tech lover",148,427,456,2012-06-26 11:16:06+00:00,0.9343544857768052
+roubachof,Jean-Marie Alfonsi,SHARPNADO,Paris,jm.alfonsi@gmail.com,true,"My name is Jean-Marie Alfonsi. I am what you could pedantically call a Software Architect, or a Full Stack Developer, or more simply put a software engineer.",61,425,7,2011-02-02 15:01:18+00:00,53.125
+gpakosz,Grégory Pakosz,APPLE,"Nantes / Paris, France",,false,"“If you're not appearing, you're disappearing.” — Art Blakey",35,423,16,2011-01-08 13:55:23+00:00,24.88235294117647
+pommedeterresautee,Michaël Benesty,ELS-RD LEFEBVRE SARRUT,"Paris, France",,false,"Applied ML engineer ; former tax lawyer (@deloitte, Paris) ; former financial auditor (Constantin, NYC) ; former CPA (FC, Paris)",33,420,102,2011-09-06 12:19:45+00:00,4.077669902912621
+Eschults,Edward Schults,LEWAGON,Paris,,false,,86,420,34,2014-07-07 12:56:46+00:00,12.0
+damienvanrobaeys,Damien Van Robaeys,,Paris,damien.vanrobaeys@gmail.com,false,"MVP Microsoft /
+System and Desktop Engineer / Powershell / Deployment / MDT / XAML / Automation",133,416,6,2014-09-19 11:53:07+00:00,59.42857142857143
+lhoestq,Quentin Lhoest,HUGGING FACE,Paris,,false,"ML Engineer @huggingface |
+Maintainer of 🤗Datasets",17,416,19,2018-08-30 21:50:44+00:00,20.8
+guenchi,,,"Paris, France",,false,"Linguist who do not want to be a hacker is not a good novelist.
+Novelist, Poet, Linguist, Phonetician, CreateLanguageExpert,  NLP Expert, Entrepreneur, Gourmet",149,413,11,2017-02-16 22:58:31+00:00,34.416666666666664
+hhamon,Hugo Hamon,KODERO SAS,"Paris, France",,true,"Senior Software Lead Developer
 Previously, Senior Software Architect at @sensiolabs & @dayuseio
 Creator of Apprendre-PHP.com
-Book author & speaker",106,413,123,2010-04-02 08:29:55+00:00
-rth,Roman Yurchak,,"Paris, France",roman.yurchak@symerio.com,False,"ML engineer & Founder @symerio. 
-Core developer at @pyodide. Previously @scikit-learn. 🇺🇦",174,409,23,2011-02-21 23:45:38+00:00
-mortendahl,Morten Dahl,ZAMA-AI @TF-ENCRYPTED,"Paris, France",,True,VP Blockchain at @zama-ai ,48,409,49,2013-11-12 16:10:47+00:00
-bloodyowl,Matthias Le Brun,SWAN-IO,"Paris, France",bloodyowl@icloud.com,False,Front-End Lead Manager & Chief Shitpost Officer @ Swan,206,406,10,2012-04-28 19:17:10+00:00
-luislavena,Luis Lavena,AREA17,"Paris, France",,False,"I create stuff, mostly in Ruby and Crystal. Creator of RubyInstaller for Windows (@oneclick), @rake-compiler and many other Ruby tools for developers.",51,405,0,2008-03-31 23:55:19+00:00
-matt-42,Matthieu Garrigues,,"Paris, France",matthieu.garrigues@gmail.com,False,,34,403,47,2011-06-13 10:22:05+00:00
-louischatriot,Louis Chatriot,ALMA,Paris,louis.chatriot@gmail.com,False,,84,400,3,2011-07-19 20:42:50+00:00
-lukas-blecher,Lukas Blecher,META,Paris,luk.blecher@gmail.com,False,Research Engineer @ MetaAI,9,399,13,2019-09-13 14:47:05+00:00
-thoas,Flo,ULULE,"Paris, France",florent.messa@gmail.com,True,CTO @ulule,67,395,176,2008-08-07 19:45:08+00:00
-alexattia,Alexandre Attia,,Paris / Palo Alto,,True,"Always keep on learning.
+Book author & speaker",106,413,123,2010-04-02 08:29:55+00:00,3.3306451612903225
+rth,Roman Yurchak,,"Paris, France",roman.yurchak@symerio.com,false,"ML engineer & Founder @symerio. 
+Core developer at @pyodide. Previously @scikit-learn. 🇺🇦",174,409,23,2011-02-21 23:45:38+00:00,17.041666666666668
+mortendahl,Morten Dahl,ZAMA-AI @TF-ENCRYPTED,"Paris, France",,true,VP Blockchain at @zama-ai ,48,409,49,2013-11-12 16:10:47+00:00,8.18
+bloodyowl,Matthias Le Brun,SWAN-IO,"Paris, France",bloodyowl@icloud.com,false,Front-End Lead Manager & Chief Shitpost Officer @ Swan,206,406,10,2012-04-28 19:17:10+00:00,36.90909090909091
+luislavena,Luis Lavena,AREA17,"Paris, France",,false,"I create stuff, mostly in Ruby and Crystal. Creator of RubyInstaller for Windows (@oneclick), @rake-compiler and many other Ruby tools for developers.",51,405,0,2008-03-31 23:55:19+00:00,405.0
+matt-42,Matthieu Garrigues,,"Paris, France",matthieu.garrigues@gmail.com,false,,34,403,47,2011-06-13 10:22:05+00:00,8.395833333333334
+louischatriot,Louis Chatriot,ALMA,Paris,louis.chatriot@gmail.com,false,,84,400,3,2011-07-19 20:42:50+00:00,100.0
+lukas-blecher,Lukas Blecher,META,Paris,luk.blecher@gmail.com,false,Research Engineer @ MetaAI,9,399,13,2019-09-13 14:47:05+00:00,28.5
+thoas,Flo,ULULE,"Paris, France",florent.messa@gmail.com,true,CTO @ulule,67,395,176,2008-08-07 19:45:08+00:00,2.231638418079096
+alexattia,Alexandre Attia,,Paris / Palo Alto,,true,"Always keep on learning.
 Data Science.
-Twitter : @alexattia",19,393,15,2015-05-10 14:05:07+00:00
-martinbonnin,Martin Bonnin,APOLLO GRAPHQL,"Paris, France",martin@mbonnin.net,False,"Make val, not var",364,391,8,2013-03-26 13:19:49+00:00
-lauriejim,Jim LAURIE,STRAPI,"Paris, FRANCE",,False,Co-Founder @strapi,13,390,31,2013-10-18 08:20:00+00:00
-dmnsgn,Damien Seguin,VARIABLESTUDIO,London / Paris,,True,"Computational Designer, Generative Artisan, Cheese Enthusiast. ",132,389,98,2012-04-12 11:31:35+00:00
-CathyDolle,Cathy,HETIC,Paris France,,False,"Mainly freelance project, but also personal :)",18,387,14,2018-11-27 14:34:01+00:00
-arthurmensch,Arthur Mensch,TBA,"Paris, France",,False,Co-founder and CEO @ Mistral AI,35,387,3,2013-04-06 17:03:47+00:00
-garronej,Joseph Garrone,INSEEFRLAB,"Paris, France",Joseph.garrone@protonmail.com,True,Leading the development on Onyxia Datalab,251,382,293,2014-02-17 07:50:48+00:00
-muzixing,Cheng Li,HUAWEI,Paris,350959853@qq.com,True,Exploring,68,378,2,2013-03-04 13:25:06+00:00
-42-AI,42 Artificial Intelligence,,"School 42 Paris, France",contact@42ai.fr,False,"Student organization to foster discussion, learning, and interest in Artificial Intelligence",36,377,0,2017-02-17 13:36:33+00:00
-atoulmet,Alexia Toulmet,,Paris,alexia.toulmet@gmail.com,False,"👾 FullStack Software Engineer
+Twitter : @alexattia",19,393,15,2015-05-10 14:05:07+00:00,24.5625
+martinbonnin,Martin Bonnin,APOLLO GRAPHQL,"Paris, France",martin@mbonnin.net,false,"Make val, not var",364,391,8,2013-03-26 13:19:49+00:00,43.44444444444444
+lauriejim,Jim LAURIE,STRAPI,"Paris, FRANCE",,false,Co-Founder @strapi,13,390,31,2013-10-18 08:20:00+00:00,12.1875
+dmnsgn,Damien Seguin,VARIABLESTUDIO,London / Paris,,true,"Computational Designer, Generative Artisan, Cheese Enthusiast. ",132,389,98,2012-04-12 11:31:35+00:00,3.9292929292929295
+CathyDolle,Cathy,HETIC,Paris France,,false,"Mainly freelance project, but also personal :)",18,387,14,2018-11-27 14:34:01+00:00,25.8
+arthurmensch,Arthur Mensch,TBA,"Paris, France",,false,Co-founder and CEO @ Mistral AI,35,387,3,2013-04-06 17:03:47+00:00,96.75
+garronej,Joseph Garrone,INSEEFRLAB,"Paris, France",Joseph.garrone@protonmail.com,true,Leading the development on Onyxia Datalab,251,382,293,2014-02-17 07:50:48+00:00,1.2993197278911566
+muzixing,Cheng Li,HUAWEI,Paris,350959853@qq.com,true,Exploring,68,378,2,2013-03-04 13:25:06+00:00,126.0
+42-AI,42 Artificial Intelligence,,"School 42 Paris, France",contact@42ai.fr,false,"Student organization to foster discussion, learning, and interest in Artificial Intelligence",36,377,0,2017-02-17 13:36:33+00:00,377.0
+atoulmet,Alexia Toulmet,,Paris,alexia.toulmet@gmail.com,false,"👾 FullStack Software Engineer
 🎏Asia Lover ⛩
-👩‍🎓 Sciences Po Paris + 42 graduate",33,374,51,2016-11-23 17:46:57+00:00
-JulienPalard,Julien Palard,,"Paris, France",julien@palard.fr,False,@python Core Developer,106,372,0,2010-04-08 12:55:45+00:00
-RobinDavid,Robin David,QUARKSLAB,"Paris, France",dev.robin.david@gmail.com,False,"Software Security Researcher working on reverse-engineering, software analysis, symbolic execution, fuzzing. Also breaking obfuscation as a hobby.",29,370,48,2012-06-24 17:04:42+00:00
-jfmengels,Jeroen Engels,CROWDSTRIKE,"Paris, France",jfm.engels@gmail.com,True,Elm developer. Author of elm-review. Co-host of Elm Radio. Working on making programming easier through static analysis and functional programming.,247,370,14,2013-03-14 23:00:50+00:00
-Kehrlann,Daniel Garnier-Moiroux,BROADCOM,"Paris, France",git@garnier.wf,False,"fiddler of things, makes computer go ""beep-boop 🤖""",127,368,0,2013-10-13 15:36:01+00:00
-emmanuelbernard,Emmanuel Bernard,RED HAT,Paris,github@mel.emmanuelbernard.com,False,,103,364,8,2010-06-09 11:03:09+00:00
-diegoalejogm,Diego Gomez,GOOGLE,"Paris, France",,True,"Software Engineer, Machine Learning 👾
+👩‍🎓 Sciences Po Paris + 42 graduate",33,374,51,2016-11-23 17:46:57+00:00,7.1923076923076925
+JulienPalard,Julien Palard,,"Paris, France",julien@palard.fr,false,@python Core Developer,106,372,0,2010-04-08 12:55:45+00:00,372.0
+RobinDavid,Robin David,QUARKSLAB,"Paris, France",dev.robin.david@gmail.com,false,"Software Security Researcher working on reverse-engineering, software analysis, symbolic execution, fuzzing. Also breaking obfuscation as a hobby.",29,370,48,2012-06-24 17:04:42+00:00,7.551020408163265
+jfmengels,Jeroen Engels,CROWDSTRIKE,"Paris, France",jfm.engels@gmail.com,true,Elm developer. Author of elm-review. Co-host of Elm Radio. Working on making programming easier through static analysis and functional programming.,247,370,14,2013-03-14 23:00:50+00:00,24.666666666666668
+Kehrlann,Daniel Garnier-Moiroux,BROADCOM,"Paris, France",git@garnier.wf,false,"fiddler of things, makes computer go ""beep-boop 🤖""",127,368,0,2013-10-13 15:36:01+00:00,368.0
+emmanuelbernard,Emmanuel Bernard,RED HAT,Paris,github@mel.emmanuelbernard.com,false,,103,364,8,2010-06-09 11:03:09+00:00,40.44444444444444
+diegoalejogm,Diego Gomez,GOOGLE,"Paris, France",,true,"Software Engineer, Machine Learning 👾
 Googler 🎈.
 
-LinkedIn: diegoalejogm",24,361,41,2013-05-11 17:22:44+00:00
-JCluzet,JCluzet,42PARIS,Paris,jo@cluzet.fr,True,FullStack Dev at LegalPlace & 42 Student,38,355,6,2019-09-15 15:38:12+00:00
-nox,Anthony Ramine,,"Paris, France",,False,,225,355,0,2009-09-04 03:05:40+00:00
-Plailect,Devon Maloney,APPLE,"Paris, FR",,False,Security Engineering and Architecture at @Apple. Vulnerability research. Embedded systems in Swift. Alumnus @RPISEC. Previously @ReSwitched. 🏳️‍🌈,5,354,1,2016-01-30 22:00:32+00:00
-guillaumeduhan,Guillaume Duhan,CODEWITHG TECH SOLUTIONS,"Paris, France",,False,dub.link/code,124,354,52,2017-08-22 17:15:58+00:00
-ClementPinard,Clément Pinard,ONFIDO,Paris,clempinard@gmail.com,False,"PhD ENSTA Paris, Applied Scientist @ Onfido
+LinkedIn: diegoalejogm",24,361,41,2013-05-11 17:22:44+00:00,8.595238095238095
+JCluzet,JCluzet,42PARIS,Paris,jo@cluzet.fr,true,FullStack Dev at LegalPlace & 42 Student,38,355,6,2019-09-15 15:38:12+00:00,50.714285714285715
+nox,Anthony Ramine,,"Paris, France",,false,,225,355,0,2009-09-04 03:05:40+00:00,355.0
+Plailect,Devon Maloney,APPLE,"Paris, FR",,false,Security Engineering and Architecture at @Apple. Vulnerability research. Embedded systems in Swift. Alumnus @RPISEC. Previously @ReSwitched. 🏳️‍🌈,5,354,1,2016-01-30 22:00:32+00:00,177.0
+guillaumeduhan,Guillaume Duhan,CODEWITHG TECH SOLUTIONS,"Paris, France",,false,dub.link/code,124,354,52,2017-08-22 17:15:58+00:00,6.679245283018868
+ClementPinard,Clément Pinard,ONFIDO,Paris,clempinard@gmail.com,false,"PhD ENSTA Paris, Applied Scientist @ Onfido
 
-Formerly XXII - Contentsquare",49,352,110,2013-05-08 19:40:36+00:00
-marcgg,Marc G Gauthier,,Paris,,False,,54,352,31,2009-09-15 16:35:19+00:00
-redox,Sylvain Utard,SORARE,Paris,,False,Head of Engineering @Sorare. Previously GM and VP of Engineering @algolia. Teaching NLP @EPITA.,58,351,29,2008-10-17 18:33:29+00:00
-RLesur,Romain Lesur,INSEEFR,"Nantes & Paris, France",,False,Head of Data Science @InseeFr @InseeFrLab ,94,351,824,2016-05-03 22:36:59+00:00
-jegou,Hervé,KYUTAI,Paris,,False,,2,348,0,2017-03-01 11:00:48+00:00
-yannickcr,Yannick Croissant,ALAN-EU,"Paris, France",yannick.croissant@gmail.com,False,"Passionate Front End Developer, JavaScript Enthusiast and PC Gamer.",75,348,86,2008-06-10 12:15:26+00:00
-DWS-paris,Julien Noyer,DWSAPP,Aix-en-Provence / Paris,,True,"Le progrès ne vaut que s'il est partagé par tous, Aristote aurait adoré le World Wide Web",24,347,40,2015-07-20 08:31:14+00:00
-floswald,Florian Oswald,SCIENCES PO,Paris,,False,"Associate Professor @ScPoEcon, Data Editor of Economic Journal and Econometric Journal @RES-Reproducibility ",252,347,21,2011-09-02 09:36:34+00:00
-fyhertz,Simon,UPCITI,Paris,,True,,12,347,12,2012-11-07 21:07:04+00:00
-sunny,Sunny Ripert,CULTS.,"Paris, France",sunny@sunfox.org,False,"Ruby, Rails & Internets 
-@Cults. Previously @KissKissBankBank",242,345,138,2008-02-03 15:43:43+00:00
-johnvuko,Jonathan Vukovich,YOKITUP,"Paris, France",,False,Founder and CEO @Yokitup,71,345,8,2010-01-24 18:44:22+00:00
-doctolib,Doctolib,,"Paris, Berlin",,False,Our mission is to contribute to transforming healthcare with an innovative approach. Learn more about our engineering team on our career page.,55,341,0,2013-10-31 14:17:39+00:00
-nicoptere,nicolas barradeau,,Paris,,False,,33,340,25,2009-09-06 16:04:15+00:00
-Synacktiv-contrib,Synacktiv,SYNACKTIV,Paris - France,,False,Synacktiv official ninja repository,18,340,0,2017-05-22 09:40:04+00:00
-initml,Init ML,,"Paris, France",contact@initml.co,False,"We make design tools powered by ML: ClipDrop, Cleanup.pictures",5,340,0,2020-06-25 13:16:38+00:00
-maziyarpanahi,Maziyar Panahi,ISCPIF @JOHNSNOWLABS,"Paris, France",maziyar.panahi@iscpif.fr,False,Principal AI/ML/Data Engineer @ISCPIF -  Spark NLP Sr. Team Lead @JohnSnowLabs ,31,339,38,2013-10-24 06:40:45+00:00
-xroche,Xavier Roche,HTTRACK.COM,Paris,,False,,14,338,1,2013-05-01 15:46:23+00:00
-MathisHammel,Mathis HAMMEL,,Paris,,False,"Competitive programmer, CTF player",28,338,0,2013-12-11 09:04:59+00:00
-MinaPecheux,Mina Pêcheux,FREELANCE,"France, Paris",mina.pecheux@gmail.com,False,Freelance Full-Stack Web & Game Developer,43,338,0,2016-10-27 07:47:58+00:00
-w8r,Alexander Milevski,LINKURIOUS,Paris,alex@milevski.co,True,"Maps, visual art, crowdsourcing, image processing",158,337,447,2008-09-30 10:42:07+00:00
-mdouze,Matthijs Douze,FACEBOOKRESEARCH,Paris,,False,,8,336,0,2017-01-26 11:25:48+00:00
-stephomi,Stéphane GINIER,HEXANOMAD,"Paris, France",stephaneginier@gmail.com,False,Nomad Sculpt.,31,336,5,2013-06-20 15:30:26+00:00
-albertvillanova,Albert Villanova del Moral,HUGGINGFACE @AIINNOVA,Paris (France),,True,"ML Engineer @ Hugging Face, 
+Formerly XXII - Contentsquare",49,352,110,2013-05-08 19:40:36+00:00,3.171171171171171
+marcgg,Marc G Gauthier,,Paris,,false,,54,352,31,2009-09-15 16:35:19+00:00,11.0
+redox,Sylvain Utard,SORARE,Paris,,false,Head of Engineering @Sorare. Previously GM and VP of Engineering @algolia. Teaching NLP @EPITA.,58,351,29,2008-10-17 18:33:29+00:00,11.7
+RLesur,Romain Lesur,INSEEFR,"Nantes & Paris, France",,false,Head of Data Science @InseeFr @InseeFrLab ,94,351,824,2016-05-03 22:36:59+00:00,0.4254545454545455
+jegou,Hervé,KYUTAI,Paris,,false,,2,348,0,2017-03-01 11:00:48+00:00,348.0
+yannickcr,Yannick Croissant,ALAN-EU,"Paris, France",yannick.croissant@gmail.com,false,"Passionate Front End Developer, JavaScript Enthusiast and PC Gamer.",75,348,86,2008-06-10 12:15:26+00:00,4.0
+DWS-paris,Julien Noyer,DWSAPP,Aix-en-Provence / Paris,,true,"Le progrès ne vaut que s'il est partagé par tous, Aristote aurait adoré le World Wide Web",24,347,40,2015-07-20 08:31:14+00:00,8.463414634146341
+floswald,Florian Oswald,SCIENCES PO,Paris,,false,"Associate Professor @ScPoEcon, Data Editor of Economic Journal and Econometric Journal @RES-Reproducibility ",252,347,21,2011-09-02 09:36:34+00:00,15.772727272727273
+fyhertz,Simon,UPCITI,Paris,,true,,12,347,12,2012-11-07 21:07:04+00:00,26.692307692307693
+sunny,Sunny Ripert,CULTS.,"Paris, France",sunny@sunfox.org,false,"Ruby, Rails & Internets 
+@Cults. Previously @KissKissBankBank",242,345,138,2008-02-03 15:43:43+00:00,2.4820143884892087
+johnvuko,Jonathan Vukovich,YOKITUP,"Paris, France",,false,Founder and CEO @Yokitup,71,345,8,2010-01-24 18:44:22+00:00,38.333333333333336
+doctolib,Doctolib,,"Paris, Berlin",,false,Our mission is to contribute to transforming healthcare with an innovative approach. Learn more about our engineering team on our career page.,55,341,0,2013-10-31 14:17:39+00:00,341.0
+nicoptere,nicolas barradeau,,Paris,,false,,33,340,25,2009-09-06 16:04:15+00:00,13.076923076923077
+Synacktiv-contrib,Synacktiv,SYNACKTIV,Paris - France,,false,Synacktiv official ninja repository,18,340,0,2017-05-22 09:40:04+00:00,340.0
+initml,Init ML,,"Paris, France",contact@initml.co,false,"We make design tools powered by ML: ClipDrop, Cleanup.pictures",5,340,0,2020-06-25 13:16:38+00:00,340.0
+maziyarpanahi,Maziyar Panahi,ISCPIF @JOHNSNOWLABS,"Paris, France",maziyar.panahi@iscpif.fr,false,Principal AI/ML/Data Engineer @ISCPIF -  Spark NLP Sr. Team Lead @JohnSnowLabs ,31,339,38,2013-10-24 06:40:45+00:00,8.692307692307692
+xroche,Xavier Roche,HTTRACK.COM,Paris,,false,,14,338,1,2013-05-01 15:46:23+00:00,169.0
+MathisHammel,Mathis HAMMEL,,Paris,,false,"Competitive programmer, CTF player",28,338,0,2013-12-11 09:04:59+00:00,338.0
+MinaPecheux,Mina Pêcheux,FREELANCE,"France, Paris",mina.pecheux@gmail.com,false,Freelance Full-Stack Web & Game Developer,43,338,0,2016-10-27 07:47:58+00:00,338.0
+w8r,Alexander Milevski,LINKURIOUS,Paris,alex@milevski.co,true,"Maps, visual art, crowdsourcing, image processing",158,337,447,2008-09-30 10:42:07+00:00,0.7522321428571429
+mdouze,Matthijs Douze,FACEBOOKRESEARCH,Paris,,false,,8,336,0,2017-01-26 11:25:48+00:00,336.0
+stephomi,Stéphane GINIER,HEXANOMAD,"Paris, France",stephaneginier@gmail.com,false,Nomad Sculpt.,31,336,5,2013-06-20 15:30:26+00:00,56.0
+albertvillanova,Albert Villanova del Moral,HUGGINGFACE @AIINNOVA,Paris (France),,true,"ML Engineer @ Hugging Face, 
 Freelance Data Scientist (PhD), 
 Founder & CEO @ Aiinnova, 
 PhD Theoretical Particle Physics, 
-BSc Computer Science",361,336,387,2014-08-21 16:18:36+00:00
-Kumar-laxmi,Laxmikant Kumar,ESSEC BUSINESS SCHOOL,"Paris, France",laxmikantk2002@gmail.com,False,MiM - GE at ESSEC Business School | Mentee at Microsoft Cybersecurity Engage'22 | Amazon ML'23,55,336,6,2020-12-15 04:25:06+00:00
-sebanc,,,"Paris, France",,False,,8,335,14,2016-09-15 19:24:41+00:00
-alexarchambault,Alexandre Archambault,,Paris,,False,,208,335,0,2014-03-25 22:09:43+00:00
-rozierguillaume,Guillaume Rozier,,Paris,,False,Data Scientist,24,334,3,2016-10-11 07:16:19+00:00
-mangui,Guillaume du Pontavice,APPLE,"Paris, France",,True,"adaptive streaming, FOSS enthusiast.",10,331,12,2012-05-31 11:23:01+00:00
-jbilcke-hf,Julian BILCKE,HUGGINGFACE,"Paris, France",,False,,64,329,16,2023-06-19 09:01:12+00:00
-mckenziearts,Arthur Monney,SHOPPERLABS,"Paris, France",monneylobe@gmail.com,True,"Fullstack Designer - Laravel & React Developer. Laravel Cameroon Organizer @laravelcm | @shopperlabs 🛍
+BSc Computer Science",361,336,387,2014-08-21 16:18:36+00:00,0.865979381443299
+Kumar-laxmi,Laxmikant Kumar,ESSEC BUSINESS SCHOOL,"Paris, France",laxmikantk2002@gmail.com,false,MiM - GE at ESSEC Business School | Mentee at Microsoft Cybersecurity Engage'22 | Amazon ML'23,55,336,6,2020-12-15 04:25:06+00:00,48.0
+sebanc,,,"Paris, France",,false,,8,335,14,2016-09-15 19:24:41+00:00,22.333333333333332
+alexarchambault,Alexandre Archambault,,Paris,,false,,208,335,0,2014-03-25 22:09:43+00:00,335.0
+rozierguillaume,Guillaume Rozier,,Paris,,false,Data Scientist,24,334,3,2016-10-11 07:16:19+00:00,83.5
+mangui,Guillaume du Pontavice,APPLE,"Paris, France",,true,"adaptive streaming, FOSS enthusiast.",10,331,12,2012-05-31 11:23:01+00:00,25.46153846153846
+jbilcke-hf,Julian BILCKE,HUGGINGFACE,"Paris, France",,false,,64,329,16,2023-06-19 09:01:12+00:00,19.352941176470587
+mckenziearts,Arthur Monney,SHOPPERLABS,"Paris, France",monneylobe@gmail.com,true,"Fullstack Designer - Laravel & React Developer. Laravel Cameroon Organizer @laravelcm | @shopperlabs 🛍
 
-",15,328,35,2015-09-03 07:54:53+00:00
-Snaipe,Snaipe,"FREELANCE, @ARISTANETWORKS","Paris, France",me@snai.pe,True,"Kick butt, have fun, don't cheat, change computing forever.",88,328,16,2011-08-13 15:46:54+00:00
-apierr,Antonio Pierro,INRIA - NORD EUROPE,Paris,,True,,119,327,91,2011-11-14 18:07:14+00:00
-patcito,Patrick Aljord,,"Paris, France",patcito@gmail.com,False,"Hacker, organizer, cheese eater. Half Syrian, half Dutch. Founder of ETHDubai. Hack on yearn, alchemix and https://www.ethdubaiconf.org ",175,326,68,2008-09-26 20:47:36+00:00
-hamzaalalach,Hamza Alalach,,"Paris, France",hamzaalalach@gmail.com,True,,31,324,330,2015-07-26 14:07:57+00:00
-delba,Damien,,"Paris, France",damien@delba.io,False,,86,324,31,2012-11-26 12:37:39+00:00
-bfontaine,Baptiste Fontaine,BIXOTO,"Paris, France",b@ptistefontaine.fr,False,,228,323,28,2012-01-16 16:55:44+00:00
-kelu124,K. Ghosh,,Paris,,False,"ID4Dev, also doing hardware, ultrasound (tracking, spoofing, imaging), n00b in Python, and experimenting in embedded systems, nn, nlp and others =)",219,322,517,2012-09-29 14:23:56+00:00
-fxcoudert,FX Coudert,,"Paris, France",fxcoudert@gmail.com,False,,53,322,4,2012-07-15 21:12:04+00:00
-juliensimon,Julien Simon,ARCEE.AI,Paris,,False,Hacker. Headbanger. Harley rider. Hunter.,20,321,2,2013-01-31 08:16:51+00:00
-guillaumepotier,Guillaume Potier,CTO @WISEMBLY,Paris,guillaume@wisembly.com,False,,64,320,30,2010-11-25 10:03:39+00:00
-jagracey,John Gracey,DATADOG,"Paris, France",,False,@DataDog ,21,319,36,2013-01-18 20:15:55+00:00
-vadimkantorov,Vadim Kantorov,INRIA,"Paris, France",vadimkantorov@gmail.com,False,PhD student in computer vision @ INRIA / WILLOW,91,318,0,2011-09-11 03:10:11+00:00
-mquandalle,Maxime Quandalle,,"Paris, France",,True,,180,318,19,2012-05-11 16:32:19+00:00
-felhix,Félix Gaudé,THEHACKINGPROJECT,"Paris, France",,False,@TheHackingProject 🎓 @betagouv ,48,317,2,2015-09-22 09:29:00+00:00
-NouamaneTazi,Nouamane Tazi,HUGGINGFACE,"Paris, France",nouamane@huggingface.co,True,ML Research Engineer,70,315,172,2017-06-29 12:56:04+00:00
-anton-l,Anton Lozhkov,HUGGING FACE,"Paris, France",,True,Machine Learning Engineer,23,314,12,2017-04-03 06:09:25+00:00
-toufik-airane,Toufik Airane,SECURITYFORTECH,"Paris, France",toufik.airane@securityfortech.com,False,Cyber Security Engineer | Building Cybersecurity for Tech Companies,14,314,174,2013-10-04 09:45:59+00:00
-alexandregv,Alexandre GV.,42PARIS,"Paris, France",contact@alexandregv.fr,True,"IT Lead @42Paris, Alumni @42Paris @42School",100,311,290,2014-12-03 22:09:58+00:00
-claudiodangelis,Claudio d'Angelis,,"Paris, France",claudiodangelis@gmail.com,False,,113,310,0,2011-07-27 12:55:54+00:00
-nono,Bruno Michel,COZY CLOUD,"Paris, France",bruno@cozycloud.cc,False,,237,309,106,2008-03-10 20:48:40+00:00
-Jguer,Jo,,"Paris, France",joguer@proton.me,False,,26,307,0,2014-07-04 20:58:37+00:00
-jmfayard,Jean-Michel Fayard,TIGNUM,"Paris, France",jmfayard@gmail.com,True,"Agent double - Dev & Recruteur de devs
-https://jmfayard.dev",120,306,346,2010-10-29 12:56:07+00:00
-thisoverride,@Decorator,,Paris,,False,"Software Engineer 
-",23,304,637,2020-07-04 09:26:56+00:00
-charlesBochet,Charles Bochet,TWENTY,Paris,,True,"CTO @twentyhq -
-previously Engineering Lead @airbnb Paris",26,300,6,2015-04-20 15:13:29+00:00
-raphaelbastide,Raphaël Bastide,,Paris,,True,Recent code is on Gitlab: https://gitlab.com/raphaelbastide/,75,299,16,2010-01-31 01:49:36+00:00
-peeweek,Thomas Iché,,Paris,,False,sr. Realtime VFX Artist. I can write some code : HLSL/C#/Python,67,299,11,2013-04-02 13:26:16+00:00
-nebrass,Nebrass Lamouchi,MICROSOFT,Paris,lnibrass@gmail.com,False,Java Dreamer,81,298,13,2012-07-26 08:56:22+00:00
-pvictor,Victor Perrier,DREAMRS,"Paris, France",,False,R / Shiny developper at @dreamRs with @mfanny,51,296,137,2013-05-13 09:16:08+00:00
-NiLuJe,NiLuJe,,"Paris, France",,False,,56,294,4,2009-08-04 23:12:19+00:00
-julien-deramond,Julien Déramond,ORANGE,"Paris, France",,True,Design System Tech Lead @Orange-OpenSource • Bootstrap core team @twbs • Creator of @Open-reSource ,27,293,40,2016-02-21 13:08:17+00:00
-The-AI-Summer,AI Summer,,"Dublin, Paris and Athens",sergios@theaisummer.com,False,Learn Deep Learning and Artificial Intelligence. Discord server: https://discord.gg/k6NXwe7PXh,16,293,0,2020-04-11 17:55:10+00:00
-gabrieldemarmiesse,Gabriel de Marmiesse,,"Paris, France",gabrieldemarmiesse@gmail.com,False,"Software developer, current maintainer of Python-on-whales, former maintainer of Keras and TensorFlow Addons. Currently working on Mojo 🔥 ",64,293,4,2015-06-15 07:51:55+00:00
-nvuillam,Nicolas Vuillamy,CLOUDITY & OX SECURITY,"Paris, France",nicolas.vuillamy@gmail.com,False,"CTO / Architect / Speaker - Back, Front, Integration, DevOps, Salesforce, and whatever will be necessary.
+",15,328,35,2015-09-03 07:54:53+00:00,9.11111111111111
+Snaipe,Snaipe,"FREELANCE, @ARISTANETWORKS","Paris, France",me@snai.pe,true,"Kick butt, have fun, don't cheat, change computing forever.",88,328,16,2011-08-13 15:46:54+00:00,19.294117647058822
+apierr,Antonio Pierro,INRIA - NORD EUROPE,Paris,,true,,119,327,91,2011-11-14 18:07:14+00:00,3.5543478260869565
+patcito,Patrick Aljord,,"Paris, France",patcito@gmail.com,false,"Hacker, organizer, cheese eater. Half Syrian, half Dutch. Founder of ETHDubai. Hack on yearn, alchemix and https://www.ethdubaiconf.org ",175,326,68,2008-09-26 20:47:36+00:00,4.72463768115942
+hamzaalalach,Hamza Alalach,,"Paris, France",hamzaalalach@gmail.com,true,,31,324,330,2015-07-26 14:07:57+00:00,0.9788519637462235
+delba,Damien,,"Paris, France",damien@delba.io,false,,86,324,31,2012-11-26 12:37:39+00:00,10.125
+bfontaine,Baptiste Fontaine,BIXOTO,"Paris, France",b@ptistefontaine.fr,false,,228,323,28,2012-01-16 16:55:44+00:00,11.137931034482758
+kelu124,K. Ghosh,,Paris,,false,"ID4Dev, also doing hardware, ultrasound (tracking, spoofing, imaging), n00b in Python, and experimenting in embedded systems, nn, nlp and others =)",219,322,517,2012-09-29 14:23:56+00:00,0.6216216216216216
+fxcoudert,FX Coudert,,"Paris, France",fxcoudert@gmail.com,false,,53,322,4,2012-07-15 21:12:04+00:00,64.4
+juliensimon,Julien Simon,ARCEE.AI,Paris,,false,Hacker. Headbanger. Harley rider. Hunter.,20,321,2,2013-01-31 08:16:51+00:00,107.0
+guillaumepotier,Guillaume Potier,CTO @WISEMBLY,Paris,guillaume@wisembly.com,false,,64,320,30,2010-11-25 10:03:39+00:00,10.32258064516129
+jagracey,John Gracey,DATADOG,"Paris, France",,false,@DataDog ,21,319,36,2013-01-18 20:15:55+00:00,8.621621621621621
+vadimkantorov,Vadim Kantorov,INRIA,"Paris, France",vadimkantorov@gmail.com,false,PhD student in computer vision @ INRIA / WILLOW,91,318,0,2011-09-11 03:10:11+00:00,318.0
+mquandalle,Maxime Quandalle,,"Paris, France",,true,,180,318,19,2012-05-11 16:32:19+00:00,15.9
+felhix,Félix Gaudé,THEHACKINGPROJECT,"Paris, France",,false,@TheHackingProject 🎓 @betagouv ,48,317,2,2015-09-22 09:29:00+00:00,105.66666666666667
+NouamaneTazi,Nouamane Tazi,HUGGINGFACE,"Paris, France",nouamane@huggingface.co,true,ML Research Engineer,70,315,172,2017-06-29 12:56:04+00:00,1.8208092485549132
+anton-l,Anton Lozhkov,HUGGING FACE,"Paris, France",,true,Machine Learning Engineer,23,314,12,2017-04-03 06:09:25+00:00,24.153846153846153
+toufik-airane,Toufik Airane,SECURITYFORTECH,"Paris, France",toufik.airane@securityfortech.com,false,Cyber Security Engineer | Building Cybersecurity for Tech Companies,14,314,174,2013-10-04 09:45:59+00:00,1.7942857142857143
+alexandregv,Alexandre GV.,42PARIS,"Paris, France",contact@alexandregv.fr,true,"IT Lead @42Paris, Alumni @42Paris @42School",100,311,290,2014-12-03 22:09:58+00:00,1.0687285223367697
+claudiodangelis,Claudio d'Angelis,,"Paris, France",claudiodangelis@gmail.com,false,,113,310,0,2011-07-27 12:55:54+00:00,310.0
+nono,Bruno Michel,COZY CLOUD,"Paris, France",bruno@cozycloud.cc,false,,237,309,106,2008-03-10 20:48:40+00:00,2.8878504672897196
+Jguer,Jo,,"Paris, France",joguer@proton.me,false,,26,307,0,2014-07-04 20:58:37+00:00,307.0
+jmfayard,Jean-Michel Fayard,TIGNUM,"Paris, France",jmfayard@gmail.com,true,"Agent double - Dev & Recruteur de devs
+https://jmfayard.dev",120,306,346,2010-10-29 12:56:07+00:00,0.8818443804034583
+thisoverride,@Decorator,,Paris,,false,"Software Engineer 
+",23,304,637,2020-07-04 09:26:56+00:00,0.47648902821316613
+charlesBochet,Charles Bochet,TWENTY,Paris,,true,"CTO @twentyhq -
+previously Engineering Lead @airbnb Paris",26,300,6,2015-04-20 15:13:29+00:00,42.857142857142854
+raphaelbastide,Raphaël Bastide,,Paris,,true,Recent code is on Gitlab: https://gitlab.com/raphaelbastide/,75,299,16,2010-01-31 01:49:36+00:00,17.58823529411765
+peeweek,Thomas Iché,,Paris,,false,sr. Realtime VFX Artist. I can write some code : HLSL/C#/Python,67,299,11,2013-04-02 13:26:16+00:00,24.916666666666668
+nebrass,Nebrass Lamouchi,MICROSOFT,Paris,lnibrass@gmail.com,false,Java Dreamer,81,298,13,2012-07-26 08:56:22+00:00,21.285714285714285
+pvictor,Victor Perrier,DREAMRS,"Paris, France",,false,R / Shiny developper at @dreamRs with @mfanny,51,296,137,2013-05-13 09:16:08+00:00,2.1449275362318843
+NiLuJe,NiLuJe,,"Paris, France",,false,,56,294,4,2009-08-04 23:12:19+00:00,58.8
+julien-deramond,Julien Déramond,ORANGE,"Paris, France",,true,Design System Tech Lead @Orange-OpenSource • Bootstrap core team @twbs • Creator of @Open-reSource ,27,293,40,2016-02-21 13:08:17+00:00,7.146341463414634
+The-AI-Summer,AI Summer,,"Dublin, Paris and Athens",sergios@theaisummer.com,false,Learn Deep Learning and Artificial Intelligence. Discord server: https://discord.gg/k6NXwe7PXh,16,293,0,2020-04-11 17:55:10+00:00,293.0
+gabrieldemarmiesse,Gabriel de Marmiesse,,"Paris, France",gabrieldemarmiesse@gmail.com,false,"Software developer, current maintainer of Python-on-whales, former maintainer of Keras and TensorFlow Addons. Currently working on Mojo 🔥 ",64,293,4,2015-06-15 07:51:55+00:00,58.6
+nvuillam,Nicolas Vuillamy,CLOUDITY & OX SECURITY,"Paris, France",nicolas.vuillamy@gmail.com,false,"CTO / Architect / Speaker - Back, Front, Integration, DevOps, Salesforce, and whatever will be necessary.
 
-Creator of MegaLinter, npm-groovy-lint ,sfdx-hardis",122,293,120,2016-02-26 17:28:38+00:00
-TheHive-Project,TheHive Project,,Paris,support@thehive-project.org,False,Security Incident Response for the Masses,29,292,0,2016-09-08 16:33:47+00:00
-red0xff,Niboucha Redouane,APPLE,"Paris, France",rniboucha@yahoo.fr,True,\xff,28,292,192,2014-08-07 10:23:08+00:00
-krokrob,Kevin ROBERT,LEWAGON,Paris,kevin.j.robert@gmail.com,False,,84,291,26,2014-11-27 15:16:39+00:00
-cjbrigato,Colin J. Brigato,COLIN BRIGATO E.I.R.L.,Paris - France,colin@brigato.fr,True,System&nSequents Engineer • Computer Scientist • Matrix API Designer • Logician & Tautologist,75,288,24,2011-03-20 15:11:19+00:00
-pmdartus,Pierre-Marie Dartus,SALESFORCE,"Paris, France",pm@dartus.fr,False,,119,287,140,2012-10-15 20:03:56+00:00
-sdpython,xavier dupré,ENSAE,paris,,False,"@ENSAE 1999, Phd in Computer Science in 2004, @A2iA, @Autonomy, @Yahoo, @Microsoft since 2010, teacher in computer science at @ENSAE since 2000. @xadupre",74,287,3,2013-06-14 07:34:42+00:00
-loubnabnl,Loubna Ben Allal,HUGGINGFACE,"Paris, France",,False,ML @huggingface ,31,286,12,2018-10-11 18:05:24+00:00
-randorisec,RandoriSec,,Paris,,False,,15,285,0,2016-11-18 16:50:18+00:00
-DjebbZ,Khalid Jebbari,FREELANCE,"Paris, France",khalid.jebbari@gmail.com,False,Clojure/ClojureScript/Javascript Web developer. Former @parisjs  and @bow-paris co-organizer.,168,284,0,2009-04-24 05:03:32+00:00
-slandelle,Stephane Landelle,GATLING,"Paris, France",,False,CTO @gatling,19,279,4,2011-06-14 11:51:46+00:00
-SRombauts,Sébastien Rombauts,UNITY,Paris (France),sebastien.rombauts@gmail.com,False,"Senior Software Engineer working with @UnrealEngine and @PlasticSCM at @Unity.
-Working on the UE4 Git in my spare time.",96,275,13,2011-06-22 21:09:26+00:00
-skarnet,Laurent Bercot,SKARNET.COM,"Paris, France",,False,,27,275,0,2015-02-28 10:33:01+00:00
-alexis-jacq,Alexis David Jacq,GOOGLE,Paris,alexis.jacq@gmail.com,True,,65,274,24,2014-10-13 12:05:56+00:00
-julien-duponchelle,Julien Duponchelle,,Paris,julien@duponchelle.info,False,,84,272,65,2010-07-27 07:11:52+00:00
-aymanfarhat,Ayman Farhat,GOOGLE,Paris,,True,"Building tools, and integrations for everything #Data #WebPerf and #PWA",42,272,383,2011-06-01 18:17:08+00:00
-pirhoo,Pierre Romera Zhang,ICIJ,Paris,,False,CTO at @ICIJ,86,272,88,2010-11-07 14:52:23+00:00
-tommybuonomo,Tommy Buonomo,LYDIA,Paris,tommy.buonomo@gmail.com,False,"- Mobile Lead @LydiaSolutions
-- Mobile games indie dev",36,271,11,2015-11-09 17:41:59+00:00
-mauricesvay,Maurice Svay,,"Paris, France",maurice@svay.com,False,,70,271,140,2010-05-05 09:03:35+00:00
-deiu,Andrei,,"Paris, FR",,False,"PhD, blockchain engineer, and standards expert. Former MIT/W3C. Single malt, neat.",50,270,0,2010-07-28 10:55:55+00:00
-AdaCore,AdaCore,,"Paris, France - New York City, NY",,False,AdaCore is the leading provider of commercial software solutions for Ada.,115,270,0,2014-06-02 12:47:20+00:00
-rCarto,Timothée Giraud,CNRS,"Paris, France",,False,R packages,82,269,73,2012-12-14 09:22:19+00:00
-mandubian,Pascal Voitot,JOB FREE (PARIS),Paris,pascal.voitot.dev@gmail.com,False,AI applied research scientists & engineer - Data/Stream senior engineer - Senior developer on FP & typesafe languages,116,268,12,2009-04-23 22:40:42+00:00
-mfuntowicz,Funtowicz Morgan,HUGGINGFACE,"Paris, France",,True,"@huggingface | Head of Machine Learning Optimizations
+Creator of MegaLinter, npm-groovy-lint ,sfdx-hardis",122,293,120,2016-02-26 17:28:38+00:00,2.4214876033057853
+TheHive-Project,TheHive Project,,Paris,support@thehive-project.org,false,Security Incident Response for the Masses,29,292,0,2016-09-08 16:33:47+00:00,292.0
+red0xff,Niboucha Redouane,APPLE,"Paris, France",rniboucha@yahoo.fr,true,\xff,28,292,192,2014-08-07 10:23:08+00:00,1.5129533678756477
+krokrob,Kevin ROBERT,LEWAGON,Paris,kevin.j.robert@gmail.com,false,,84,291,26,2014-11-27 15:16:39+00:00,10.777777777777779
+cjbrigato,Colin J. Brigato,COLIN BRIGATO E.I.R.L.,Paris - France,colin@brigato.fr,true,System&nSequents Engineer • Computer Scientist • Matrix API Designer • Logician & Tautologist,75,288,24,2011-03-20 15:11:19+00:00,11.52
+pmdartus,Pierre-Marie Dartus,SALESFORCE,"Paris, France",pm@dartus.fr,false,,119,287,140,2012-10-15 20:03:56+00:00,2.0354609929078014
+sdpython,xavier dupré,ENSAE,paris,,false,"@ENSAE 1999, Phd in Computer Science in 2004, @A2iA, @Autonomy, @Yahoo, @Microsoft since 2010, teacher in computer science at @ENSAE since 2000. @xadupre",74,287,3,2013-06-14 07:34:42+00:00,71.75
+loubnabnl,Loubna Ben Allal,HUGGINGFACE,"Paris, France",,false,ML @huggingface ,31,286,12,2018-10-11 18:05:24+00:00,22.0
+randorisec,RandoriSec,,Paris,,false,,15,285,0,2016-11-18 16:50:18+00:00,285.0
+DjebbZ,Khalid Jebbari,FREELANCE,"Paris, France",khalid.jebbari@gmail.com,false,Clojure/ClojureScript/Javascript Web developer. Former @parisjs  and @bow-paris co-organizer.,168,284,0,2009-04-24 05:03:32+00:00,284.0
+slandelle,Stephane Landelle,GATLING,"Paris, France",,false,CTO @gatling,19,279,4,2011-06-14 11:51:46+00:00,55.8
+SRombauts,Sébastien Rombauts,UNITY,Paris (France),sebastien.rombauts@gmail.com,false,"Senior Software Engineer working with @UnrealEngine and @PlasticSCM at @Unity.
+Working on the UE4 Git in my spare time.",96,275,13,2011-06-22 21:09:26+00:00,19.642857142857142
+skarnet,Laurent Bercot,SKARNET.COM,"Paris, France",,false,,27,275,0,2015-02-28 10:33:01+00:00,275.0
+alexis-jacq,Alexis David Jacq,GOOGLE,Paris,alexis.jacq@gmail.com,true,,65,274,24,2014-10-13 12:05:56+00:00,10.96
+julien-duponchelle,Julien Duponchelle,,Paris,julien@duponchelle.info,false,,84,272,65,2010-07-27 07:11:52+00:00,4.121212121212121
+aymanfarhat,Ayman Farhat,GOOGLE,Paris,,true,"Building tools, and integrations for everything #Data #WebPerf and #PWA",42,272,383,2011-06-01 18:17:08+00:00,0.7083333333333334
+pirhoo,Pierre Romera Zhang,ICIJ,Paris,,false,CTO at @ICIJ,86,272,88,2010-11-07 14:52:23+00:00,3.056179775280899
+tommybuonomo,Tommy Buonomo,LYDIA,Paris,tommy.buonomo@gmail.com,false,"- Mobile Lead @LydiaSolutions
+- Mobile games indie dev",36,271,11,2015-11-09 17:41:59+00:00,22.583333333333332
+mauricesvay,Maurice Svay,,"Paris, France",maurice@svay.com,false,,70,271,140,2010-05-05 09:03:35+00:00,1.9219858156028369
+deiu,Andrei,,"Paris, FR",,false,"PhD, blockchain engineer, and standards expert. Former MIT/W3C. Single malt, neat.",50,270,0,2010-07-28 10:55:55+00:00,270.0
+AdaCore,AdaCore,,"Paris, France - New York City, NY",,false,AdaCore is the leading provider of commercial software solutions for Ada.,115,270,0,2014-06-02 12:47:20+00:00,270.0
+rCarto,Timothée Giraud,CNRS,"Paris, France",,false,R packages,82,269,73,2012-12-14 09:22:19+00:00,3.635135135135135
+mandubian,Pascal Voitot,JOB FREE (PARIS),Paris,pascal.voitot.dev@gmail.com,false,AI applied research scientists & engineer - Data/Stream senior engineer - Senior developer on FP & typesafe languages,116,268,12,2009-04-23 22:40:42+00:00,20.615384615384617
+mfuntowicz,Funtowicz Morgan,HUGGINGFACE,"Paris, France",,true,"@huggingface | Head of Machine Learning Optimizations
 
- ",27,265,17,2012-08-29 12:57:29+00:00
-adrienjoly,Adrien Joly,,"Montreuil, Paris area, France",,False,"Software Engineer. Maintainer of @openwhyd, among other projects.",165,264,31,2010-12-21 11:06:08+00:00
-ericbottard,Eric Bottard,BROADCOM,Paris,,False,,228,264,1,2010-06-24 09:30:47+00:00
-elbywan,Julien Elbaz,DATADOG,"Paris, France",,False,Clever monkey • 🐒  • @datadog • Previously @LedgerHQ @sonos @snipsco (…),47,263,42,2013-01-30 14:22:25+00:00
-nhoizey,Nicolas Hoizey,CLEVERAGE,"Paris, France",nicolas@hoizey.com,False,"Co-founder of @cleverage, advocate of a pragmatic use of standard Web technologies.
+ ",27,265,17,2012-08-29 12:57:29+00:00,14.722222222222221
+adrienjoly,Adrien Joly,,"Montreuil, Paris area, France",,false,"Software Engineer. Maintainer of @openwhyd, among other projects.",165,264,31,2010-12-21 11:06:08+00:00,8.25
+ericbottard,Eric Bottard,BROADCOM,Paris,,false,,228,264,1,2010-06-24 09:30:47+00:00,132.0
+elbywan,Julien Elbaz,DATADOG,"Paris, France",,false,Clever monkey • 🐒  • @datadog • Previously @LedgerHQ @sonos @snipsco (…),47,263,42,2013-01-30 14:22:25+00:00,6.116279069767442
+nhoizey,Nicolas Hoizey,CLEVERAGE,"Paris, France",nicolas@hoizey.com,false,"Co-founder of @cleverage, advocate of a pragmatic use of standard Web technologies.
 
-Photographer: https://nicolas-hoizey.photo/",61,262,157,2009-04-27 06:07:28+00:00
-hill-a,Ashley Hill,,Paris,github@hill-a.me,False,"Machine Learning, Robotics, and other oddities. 
- ",10,261,31,2013-12-12 16:16:33+00:00
-retkowsky,Serge Retkowsky,MICROSOFT,Paris France,serge.retkowsky@microsoft.com,False,AI Global Black Belt | Microsoft | France,162,261,3,2015-10-27 11:15:17+00:00
-alexkirsz,Alex Kirszenberg,,Paris,,False,,111,260,22,2012-04-07 18:50:49+00:00
-fedihamdi,Fedi Hamdi,,"Paris, France",fedihamdi@yahoo.com,True,"DS/CS
-Statistician",40,259,105,2017-07-01 19:37:06+00:00
-jderusse,Jérémy Derussé,BLACKFIRE,"Paris, France",jeremy@derusse.com,False,@symfony Core contributor,135,259,1,2011-01-22 22:18:43+00:00
-louisabraham,Louis Abraham,,Paris,,True,I build things.,104,259,23,2015-07-04 08:01:26+00:00
-pierreguillot,Pierre Guillot,,Paris,,False,,49,258,49,2012-02-05 12:35:54+00:00
-hai-vr,Haï~,HAÏ ~ SOLE PROPRIETOR,"Paris, France",,False,"Software engineer, and Unity/VR developer.
+Photographer: https://nicolas-hoizey.photo/",61,262,157,2009-04-27 06:07:28+00:00,1.6582278481012658
+hill-a,Ashley Hill,,Paris,github@hill-a.me,false,"Machine Learning, Robotics, and other oddities. 
+ ",10,261,31,2013-12-12 16:16:33+00:00,8.15625
+retkowsky,Serge Retkowsky,MICROSOFT,Paris France,serge.retkowsky@microsoft.com,false,AI Global Black Belt | Microsoft | France,162,261,3,2015-10-27 11:15:17+00:00,65.25
+alexkirsz,Alex Kirszenberg,,Paris,,false,,111,260,22,2012-04-07 18:50:49+00:00,11.304347826086957
+fedihamdi,Fedi Hamdi,,"Paris, France",fedihamdi@yahoo.com,true,"DS/CS
+Statistician",40,259,105,2017-07-01 19:37:06+00:00,2.443396226415094
+jderusse,Jérémy Derussé,BLACKFIRE,"Paris, France",jeremy@derusse.com,false,@symfony Core contributor,135,259,1,2011-01-22 22:18:43+00:00,129.5
+louisabraham,Louis Abraham,,Paris,,true,I build things.,104,259,23,2015-07-04 08:01:26+00:00,10.791666666666666
+pierreguillot,Pierre Guillot,,Paris,,false,,49,258,49,2012-02-05 12:35:54+00:00,5.16
+hai-vr,Haï~,HAÏ ~ SOLE PROPRIETOR,"Paris, France",,false,"Software engineer, and Unity/VR developer.
 
-I create cross-app editor tools for social VR apps (including VRChat), VTubing apps, and other content.",97,258,0,2020-02-08 14:55:05+00:00
-baptadn,Baptiste Adrien,PREMIER OCTET,Paris,,False,"Web developer @premieroctet, love cooking yummy stuff with React & co",62,257,17,2011-10-04 18:09:41+00:00
-rubenfiszel,Ruben Fiszel,WINDMILL,"Paris, France",ruben@windmill.dev,True,"Founder @ Windmill
+I create cross-app editor tools for social VR apps (including VRChat), VTubing apps, and other content.",97,258,0,2020-02-08 14:55:05+00:00,258.0
+baptadn,Baptiste Adrien,PREMIER OCTET,Paris,,false,"Web developer @premieroctet, love cooking yummy stuff with React & co",62,257,17,2011-10-04 18:09:41+00:00,14.277777777777779
+rubenfiszel,Ruben Fiszel,WINDMILL,"Paris, France",ruben@windmill.dev,true,"Founder @ Windmill
 
-Rust / Distributed Systems / Compilers",47,257,6,2010-05-13 15:16:16+00:00
-jilljenn,Jill-Jênn Vie,INRIA,Paris,vie@jill-jenn.net,False,"Fixing the world, one commit at a time.",157,257,131,2012-05-11 09:23:32+00:00
-SalomonBrys,Salomon BRYS,,Paris,salomon.brys@gmail.com,True,,21,256,2,2010-04-22 13:28:55+00:00
-ramnes,Guillaume Gelin,,"Paris, France",github@ramnes.eu,True,"Entrepreneur, hacker, minimalist. Husband, 2x dad.",94,256,99,2011-06-07 13:01:58+00:00
-EiffL,Francois Lanusse,FLATIRONINSTITUTE,Paris / New York City,,True,Cosmology and Deep Learning researcher @PolymathicAI @CosmoStat @flatironinstitute ,175,254,251,2011-06-20 12:05:37+00:00
-fdv,Fred de Villamil,HOME,"Paris, France",fred@t37.net,False,"On demand CTO / VP Eng. Ex @aircall, @LedgerHQ, former lead @publify. System engineer, writer, speaker, doer. Proud open source contributor since 1996",77,254,11,2008-05-11 13:48:05+00:00
-l-lin,Louis Lin,DOCTOLIB,Paris,,False,ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ,61,253,15,2013-09-13 13:18:51+00:00
-cquest,Christian Quest,,"Paris, France",github@cquest.org,False,,159,253,3,2011-11-17 18:15:06+00:00
-joshed-io,Josh Dzielak,POSTMANLABS,Paris,,False,Head of Contribution @postmanlabs · formerly co-founder & CTO @orbit-love · @algolia · @keen,72,252,236,2009-12-31 18:41:48+00:00
-avidale,David Dale,,Paris,dale.david@mail.ru,False,NLP research engineer,83,252,3,2014-09-03 13:06:29+00:00
-gquere,Guillaume Quéré,,Paris,,False,Security Engineer,35,252,2,2012-03-28 21:30:25+00:00
-tericcabrel,Eric Cabrel TIOGO,PAYFIT,Paris - France,tericcabrel@yahoo.com,False,Software Engineer - Java - Node.js - Typescript - GraphQL - AWS - Docker - React,48,251,112,2016-01-20 08:00:52+00:00
-mbrossar,Martin Brossard,"CAOR, MINES PARISTECH",Paris (France),martin.brossard@mines-paristech.fr,False,,10,250,0,2016-07-21 14:15:29+00:00
-geowarin,Geoffroy Warin,FREELANCER,"Paris, France",,False,,184,250,35,2011-09-12 20:58:25+00:00
-ksator,Khelil Sator,ARISTA NETWORKS,Paris,,False,,91,250,67,2015-12-01 10:19:51+00:00
-arthaud,Maxime Arthaud,FACEBOOK,"Paris, France",,False,"Facebook Product Security Engineer and former NASA Engineer. Interested in Static Analysis, Security, Compilers, CTF.",36,249,41,2012-08-14 15:16:56+00:00
-joeybronner,Joey Bronner,,Paris,joeybronner@gmail.com,False,"French software engineer, passionate by writing code to build products providing real live services.",83,249,176,2013-11-08 13:04:02+00:00
-DocstringFr,Docstring,,Paris,,False,Repos Github pour Docstring.fr,36,248,0,2020-02-10 13:42:35+00:00
-eunjae-lee,Eunjae Lee,STORYBLOK,Paris,,False,Software Engineer at @storyblok in 🇫🇷,130,248,21,2010-11-28 10:55:21+00:00
-JohanMabille,Johan Mabille,QUANTSTACK,Paris,,False,"@xtensor-stack co-author, @jupyter core team member, C++ teacher at Ecole Polytechnique",269,247,17,2014-02-22 08:07:25+00:00
-Lyokone,Guillaume Bernos,INVERTASE,"Paris, France",guillaume@bernos.dev,False,Lead Software Engineer @invertase,38,247,7,2013-02-23 17:12:18+00:00
-pventuzelo,Patrick Ventuzelo,FUZZINGLABS,"Paris, France",,True,"CEO & Founder of @FuzzingLabs | Security Researcher.
+Rust / Distributed Systems / Compilers",47,257,6,2010-05-13 15:16:16+00:00,36.714285714285715
+jilljenn,Jill-Jênn Vie,INRIA,Paris,vie@jill-jenn.net,false,"Fixing the world, one commit at a time.",157,257,131,2012-05-11 09:23:32+00:00,1.946969696969697
+SalomonBrys,Salomon BRYS,,Paris,salomon.brys@gmail.com,true,,21,256,2,2010-04-22 13:28:55+00:00,85.33333333333333
+ramnes,Guillaume Gelin,,"Paris, France",github@ramnes.eu,true,"Entrepreneur, hacker, minimalist. Husband, 2x dad.",94,256,99,2011-06-07 13:01:58+00:00,2.56
+EiffL,Francois Lanusse,FLATIRONINSTITUTE,Paris / New York City,,true,Cosmology and Deep Learning researcher @PolymathicAI @CosmoStat @flatironinstitute ,175,254,251,2011-06-20 12:05:37+00:00,1.007936507936508
+fdv,Fred de Villamil,HOME,"Paris, France",fred@t37.net,false,"On demand CTO / VP Eng. Ex @aircall, @LedgerHQ, former lead @publify. System engineer, writer, speaker, doer. Proud open source contributor since 1996",77,254,11,2008-05-11 13:48:05+00:00,21.166666666666668
+l-lin,Louis Lin,DOCTOLIB,Paris,,false,ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ,61,253,15,2013-09-13 13:18:51+00:00,15.8125
+cquest,Christian Quest,,"Paris, France",github@cquest.org,false,,159,253,3,2011-11-17 18:15:06+00:00,63.25
+joshed-io,Josh Dzielak,POSTMANLABS,Paris,,false,Head of Contribution @postmanlabs · formerly co-founder & CTO @orbit-love · @algolia · @keen,72,252,236,2009-12-31 18:41:48+00:00,1.0632911392405062
+avidale,David Dale,,Paris,dale.david@mail.ru,false,NLP research engineer,83,252,3,2014-09-03 13:06:29+00:00,63.0
+gquere,Guillaume Quéré,,Paris,,false,Security Engineer,35,252,2,2012-03-28 21:30:25+00:00,84.0
+tericcabrel,Eric Cabrel TIOGO,PAYFIT,Paris - France,tericcabrel@yahoo.com,false,Software Engineer - Java - Node.js - Typescript - GraphQL - AWS - Docker - React,48,251,112,2016-01-20 08:00:52+00:00,2.2212389380530975
+mbrossar,Martin Brossard,"CAOR, MINES PARISTECH",Paris (France),martin.brossard@mines-paristech.fr,false,,10,250,0,2016-07-21 14:15:29+00:00,250.0
+geowarin,Geoffroy Warin,FREELANCER,"Paris, France",,false,,184,250,35,2011-09-12 20:58:25+00:00,6.944444444444445
+ksator,Khelil Sator,ARISTA NETWORKS,Paris,,false,,91,250,67,2015-12-01 10:19:51+00:00,3.676470588235294
+arthaud,Maxime Arthaud,FACEBOOK,"Paris, France",,false,"Facebook Product Security Engineer and former NASA Engineer. Interested in Static Analysis, Security, Compilers, CTF.",36,249,41,2012-08-14 15:16:56+00:00,5.928571428571429
+joeybronner,Joey Bronner,,Paris,joeybronner@gmail.com,false,"French software engineer, passionate by writing code to build products providing real live services.",83,249,176,2013-11-08 13:04:02+00:00,1.4067796610169492
+DocstringFr,Docstring,,Paris,,false,Repos Github pour Docstring.fr,36,248,0,2020-02-10 13:42:35+00:00,248.0
+eunjae-lee,Eunjae Lee,STORYBLOK,Paris,,false,Software Engineer at @storyblok in 🇫🇷,130,248,21,2010-11-28 10:55:21+00:00,11.272727272727273
+JohanMabille,Johan Mabille,QUANTSTACK,Paris,,false,"@xtensor-stack co-author, @jupyter core team member, C++ teacher at Ecole Polytechnique",269,247,17,2014-02-22 08:07:25+00:00,13.722222222222221
+Lyokone,Guillaume Bernos,INVERTASE,"Paris, France",guillaume@bernos.dev,false,Lead Software Engineer @invertase,38,247,7,2013-02-23 17:12:18+00:00,30.875
+pventuzelo,Patrick Ventuzelo,FUZZINGLABS,"Paris, France",,true,"CEO & Founder of @FuzzingLabs | Security Researcher.
 
-Focused on Fuzzing, Vulnerability Research, Reversing & Binary analysis ",135,246,79,2014-10-06 15:28:53+00:00
-cedricpinson,Cedric Pinson,SKETCHFAB,paris,trigrou@trigrou.com,False,Co-founder and CTO at Sketchfab,64,246,5,2010-08-02 13:48:25+00:00
-erebe,Erèbe - Romain Gerard,,Paris,github@erebe.eu,True,,73,244,1,2011-06-16 14:55:09+00:00
-axelor,Axelor,,Paris,,False,,14,244,0,2013-09-04 16:18:11+00:00
-guedou,Guillaume Valadon,,"Paris, France",,True,,51,243,1,2015-03-27 17:30:44+00:00
-kingjr,Jean-Rémi KING,"META AI, CNRS",Paris,,False,"Human and artificial intelligence, neuroscience",72,243,58,2013-06-29 09:40:28+00:00
-avivace,Antonio Vivace,EUROCONTROL,Paris,,True,28 / Open Source lead @gbdev @gbadev-org @emergenzeHack @CoderBotOrg @virgili0 / Simulating air traffic @EUROCONTROL / ex @CERN @cerndigitalmemory @cms-tsg-fog,80,240,6,2015-09-18 19:42:26+00:00
-NTag,Basile Bruneau,,Paris,basile@bruneau.email,False,Developer. I like to create (useful) things.,51,240,8,2011-07-10 17:27:18+00:00
-astefanutti,Antonin Stefanutti,RED HAT,"Paris, France",,False,👨🏻‍💻🚀,28,239,14,2010-08-16 17:32:02+00:00
-pulgamecanica,Andre,PULGAMECANICA,Paris / Lisbon,pulgamecanica11@gmail.com,False,"Hi, I'm André, I code in Ruby, Python, JavaScript, C, C++, RubyonRails, Java and other languages, I'm also a fan of The Legend of Zelda and I play the cello",119,239,10,2017-05-19 15:22:03+00:00
-noirbizarre,Axel H.,APIHACKERS @LEDGERHQ,"Paris, France",,True,,171,239,135,2008-07-01 23:46:25+00:00
-clarus,Guillaume Claret,FORMAL LAND,Paris,dev@clarus.me,False,Formally verifying web3 applications with the Coq proof system. Working at @formal-land 🌲,165,238,847,2010-06-28 17:20:31+00:00
-ArnaudBarre,Arnaud Barré,CARBOMETRIX,Paris,arnaud.barre72@gmail.com,False,Vite team member and maintainer of React plugins,25,237,7,2015-09-11 13:38:55+00:00
-arguiot,Arthur Guiot,PR1MER-TECH,San Francisco - Paris,arthur.g@pr1mer.tech,False,"Versatile developer specialised in mobile, web, blockchain and desktop apps. ",125,236,274,2016-03-23 05:05:41+00:00
-vrabaud,Vincent Rabaud,OPENCV FOUNDATION,"Paris, France",vrabaud@google.com,False,,122,235,0,2011-03-31 04:00:39+00:00
-marvinroger,Marvin ROGER,ORUS-TECH,"Paris, France",,False,Self-taught developer (although I later had an engineering degree) passionate about the digital world and its future challenges.,76,235,10,2011-08-19 10:24:16+00:00
-valeoai,valeo.ai,,"Paris, France",,False,"We are an international team based in Paris, conducting AI research for Valeo automotive applications, in collaboration with world-class academics.",66,234,0,2018-10-16 16:10:52+00:00
-travier,Timothée Ravier,RED HAT,"Paris, France",tim@siosm.fr,False,"CoreOS engineer at Red Hat, Fedora Atomic Desktops maintainer, KDE developer.",118,234,338,2020-05-04 15:35:19+00:00
-chiptune,rez,,"Paris, France",rez@lol.pm,False,,8,233,66,2012-03-07 22:10:26+00:00
-caillonantoine,Antoine Caillon,IRCAM - PARIS,Paris,,False,Neural Audio Synthesis researcher,50,233,3,2017-10-13 13:21:30+00:00
-BillelBenoudjit,Billel Benoudjit,ADIKTEEV,"Paris, France",,False,Enjoy working on problems related to Data & Engineering,32,232,50,2017-11-24 17:42:43+00:00
-BlackIQ,AmirHossein Mohammadi,KERMAN MOTOR COMPANY,"Paris, France",amirhosseinmohammadi1380@yahoo.com,False,Software developer. DevOps. System admin. Cloud computing. Anything stuff related . . .,179,231,63,2019-09-13 13:20:49+00:00
-greg0ire,Grégoire Paris,MANOMANOTECH,Paris,postmaster@greg0ire.fr,False,right proper lad,334,230,43,2011-03-08 14:12:20+00:00
-Profpatsch,,POSSEHL ANALYTICS,"Augsburg, Paris",mail@profpatsch.de,True,"he/him, they/them",249,230,61,2012-12-30 13:49:13+00:00
-veracrypt,VeraCrypt,,"Paris, FRANCE",veracrypt@idrix.fr,False,Open source disk encryption based on defunct TrueCrypt with strong security for the Paranoid ,10,229,0,2014-06-18 17:47:03+00:00
-xldenis,Xavier Denis,ETHZ,Zurich/Paris,,True,"formal verification hacker
-",105,229,61,2010-10-23 23:28:55+00:00
-raphaelameaume,Raphaël Améaume,FREELANCE,"Paris, France",,True,"Freelance creative technologist.
+Focused on Fuzzing, Vulnerability Research, Reversing & Binary analysis ",135,246,79,2014-10-06 15:28:53+00:00,3.075
+cedricpinson,Cedric Pinson,SKETCHFAB,paris,trigrou@trigrou.com,false,Co-founder and CTO at Sketchfab,64,246,5,2010-08-02 13:48:25+00:00,41.0
+erebe,Erèbe - Romain Gerard,,Paris,github@erebe.eu,true,,73,244,1,2011-06-16 14:55:09+00:00,122.0
+axelor,Axelor,,Paris,,false,,14,244,0,2013-09-04 16:18:11+00:00,244.0
+guedou,Guillaume Valadon,,"Paris, France",,true,,51,243,1,2015-03-27 17:30:44+00:00,121.5
+kingjr,Jean-Rémi KING,"META AI, CNRS",Paris,,false,"Human and artificial intelligence, neuroscience",72,243,58,2013-06-29 09:40:28+00:00,4.11864406779661
+avivace,Antonio Vivace,EUROCONTROL,Paris,,true,28 / Open Source lead @gbdev @gbadev-org @emergenzeHack @CoderBotOrg @virgili0 / Simulating air traffic @EUROCONTROL / ex @CERN @cerndigitalmemory @cms-tsg-fog,80,240,6,2015-09-18 19:42:26+00:00,34.285714285714285
+NTag,Basile Bruneau,,Paris,basile@bruneau.email,false,Developer. I like to create (useful) things.,51,240,8,2011-07-10 17:27:18+00:00,26.666666666666668
+astefanutti,Antonin Stefanutti,RED HAT,"Paris, France",,false,👨🏻‍💻🚀,28,239,14,2010-08-16 17:32:02+00:00,15.933333333333334
+pulgamecanica,Andre,PULGAMECANICA,Paris / Lisbon,pulgamecanica11@gmail.com,false,"Hi, I'm André, I code in Ruby, Python, JavaScript, C, C++, RubyonRails, Java and other languages, I'm also a fan of The Legend of Zelda and I play the cello",119,239,10,2017-05-19 15:22:03+00:00,21.727272727272727
+noirbizarre,Axel H.,APIHACKERS @LEDGERHQ,"Paris, France",,true,,171,239,135,2008-07-01 23:46:25+00:00,1.7573529411764706
+clarus,Guillaume Claret,FORMAL LAND,Paris,dev@clarus.me,false,Formally verifying web3 applications with the Coq proof system. Working at @formal-land 🌲,165,238,847,2010-06-28 17:20:31+00:00,0.2806603773584906
+ArnaudBarre,Arnaud Barré,CARBOMETRIX,Paris,arnaud.barre72@gmail.com,false,Vite team member and maintainer of React plugins,25,237,7,2015-09-11 13:38:55+00:00,29.625
+arguiot,Arthur Guiot,PR1MER-TECH,San Francisco - Paris,arthur.g@pr1mer.tech,false,"Versatile developer specialised in mobile, web, blockchain and desktop apps. ",125,236,274,2016-03-23 05:05:41+00:00,0.8581818181818182
+vrabaud,Vincent Rabaud,OPENCV FOUNDATION,"Paris, France",vrabaud@google.com,false,,122,235,0,2011-03-31 04:00:39+00:00,235.0
+marvinroger,Marvin ROGER,ORUS-TECH,"Paris, France",,false,Self-taught developer (although I later had an engineering degree) passionate about the digital world and its future challenges.,76,235,10,2011-08-19 10:24:16+00:00,21.363636363636363
+valeoai,valeo.ai,,"Paris, France",,false,"We are an international team based in Paris, conducting AI research for Valeo automotive applications, in collaboration with world-class academics.",66,234,0,2018-10-16 16:10:52+00:00,234.0
+travier,Timothée Ravier,RED HAT,"Paris, France",tim@siosm.fr,false,"CoreOS engineer at Red Hat, Fedora Atomic Desktops maintainer, KDE developer.",118,234,338,2020-05-04 15:35:19+00:00,0.6902654867256637
+chiptune,rez,,"Paris, France",rez@lol.pm,false,,8,233,66,2012-03-07 22:10:26+00:00,3.4776119402985075
+caillonantoine,Antoine Caillon,IRCAM - PARIS,Paris,,false,Neural Audio Synthesis researcher,50,233,3,2017-10-13 13:21:30+00:00,58.25
+BillelBenoudjit,Billel Benoudjit,ADIKTEEV,"Paris, France",,false,Enjoy working on problems related to Data & Engineering,32,232,50,2017-11-24 17:42:43+00:00,4.549019607843137
+BlackIQ,AmirHossein Mohammadi,KERMAN MOTOR COMPANY,"Paris, France",amirhosseinmohammadi1380@yahoo.com,false,Software developer. DevOps. System admin. Cloud computing. Anything stuff related . . .,179,231,63,2019-09-13 13:20:49+00:00,3.609375
+greg0ire,Grégoire Paris,MANOMANOTECH,Paris,postmaster@greg0ire.fr,false,right proper lad,334,230,43,2011-03-08 14:12:20+00:00,5.2272727272727275
+Profpatsch,,POSSEHL ANALYTICS,"Augsburg, Paris",mail@profpatsch.de,true,"he/him, they/them",249,230,61,2012-12-30 13:49:13+00:00,3.7096774193548385
+veracrypt,VeraCrypt,,"Paris, FRANCE",veracrypt@idrix.fr,false,Open source disk encryption based on defunct TrueCrypt with strong security for the Paranoid ,10,229,0,2014-06-18 17:47:03+00:00,229.0
+xldenis,Xavier Denis,ETHZ,Zurich/Paris,,true,"formal verification hacker
+",105,229,61,2010-10-23 23:28:55+00:00,3.693548387096774
+raphaelameaume,Raphaël Améaume,FREELANCE,"Paris, France",,true,"Freelance creative technologist.
 Based in Paris.
-Real-time graphics, webdev and generative art.",28,228,191,2013-02-22 11:56:32+00:00
-blanklob,Youness Id bakkasse,,"Paris, France",,False,"Technology entrepreneur, building commerce @autrementstudio. OSS @odestry ",9,228,16,2020-04-18 05:58:18+00:00
-mremond,Mickaël Rémond,PROCESSONE,"Paris, France",mremond@process-one.net,False,"ProcessOne founder. Go, Swift, Erlang, Elixir developer. Building realtime messaging, push notification and reactive systems. ejabberd and fluux lead.",82,226,27,2009-05-20 14:27:49+00:00
-buybackoff,Victor Baybekov,,Paris,,True,,217,226,126,2010-11-20 17:28:26+00:00
-Fantomas42,Julien Fache,,"Paris, France",fantomas42@gmail.com,False,,26,226,7,2009-06-30 15:44:10+00:00
-deezer,Deezer,,Paris,deezerdevs@deezer.com,False,,77,225,0,2013-05-10 05:42:19+00:00
-adrienverge,Adrien Vergé,,Paris,,False,,87,224,0,2013-08-16 13:36:35+00:00
-jdesboeufs,Jérôme Desboeufs,LIVING DATA,Paris,jerome@livingdata.co,False,,75,223,41,2011-11-30 16:33:40+00:00
-JanGorman,Jan Gorman,PHOTOROOM,"Paris, France",gorman.jan@gmail.com,True,Senior iOS Engineer @PhotoRoom. Compiling Swift source files.,58,223,4,2009-10-11 07:02:11+00:00
-greeeg,Gregoire Mielle,PENNYLANE-HQ,"Paris, France",hello@greeeg.com,False,"Building things at @pennylane-hq • Previously @payfit @workco, @minglabs",17,223,74,2015-05-14 15:40:12+00:00
-hugoam,Hugo Amnov,,"Paris, France",,False,,27,223,1,2014-11-01 18:40:28+00:00
-leoetlino,Léo Lam,,Paris,leo@leolam.fr,False,,81,222,2,2013-04-20 10:29:53+00:00
-woctezuma,Wok,,"Paris, France",,True,🦆,125,222,30,2011-01-18 13:19:20+00:00
-charlypoly,Charly Poly,,"Paris, France",,False,,109,221,97,2011-12-09 12:07:10+00:00
-QuentinPerez,Quentin Perez,ELDER-ENG,Paris,,True,"🦀 Rust developer and open-source contributor! 
-Available for freelance opportunities ʘ‿ʘ",190,218,55,2012-12-19 13:44:22+00:00
-Abonia1,Abonia Sojasingarayar,IBM,"Paris,France",,False,Principal Research Scientist- Machine Learning & Ops Engineer,102,218,9,2016-10-17 12:09:36+00:00
-beauby,Lucas Hosseini,SKIP LABS,Paris,lucas.hosseini@gmail.com,False,,59,217,0,2012-08-25 04:44:23+00:00
-ismail1432,Smaine Milianni,YOUSIGN,Paris,smaine.milianni@gmail.com,False,"PHP - Symfony Certified Developer Freelancer trainer 
+Real-time graphics, webdev and generative art.",28,228,191,2013-02-22 11:56:32+00:00,1.1875
+blanklob,Youness Id bakkasse,,"Paris, France",,false,"Technology entrepreneur, building commerce @autrementstudio. OSS @odestry ",9,228,16,2020-04-18 05:58:18+00:00,13.411764705882353
+mremond,Mickaël Rémond,PROCESSONE,"Paris, France",mremond@process-one.net,false,"ProcessOne founder. Go, Swift, Erlang, Elixir developer. Building realtime messaging, push notification and reactive systems. ejabberd and fluux lead.",82,226,27,2009-05-20 14:27:49+00:00,8.071428571428571
+buybackoff,Victor Baybekov,,Paris,,true,,217,226,126,2010-11-20 17:28:26+00:00,1.779527559055118
+Fantomas42,Julien Fache,,"Paris, France",fantomas42@gmail.com,false,,26,226,7,2009-06-30 15:44:10+00:00,28.25
+deezer,Deezer,,Paris,deezerdevs@deezer.com,false,,77,225,0,2013-05-10 05:42:19+00:00,225.0
+adrienverge,Adrien Vergé,,Paris,,false,,87,224,0,2013-08-16 13:36:35+00:00,224.0
+jdesboeufs,Jérôme Desboeufs,LIVING DATA,Paris,jerome@livingdata.co,false,,75,223,41,2011-11-30 16:33:40+00:00,5.309523809523809
+JanGorman,Jan Gorman,PHOTOROOM,"Paris, France",gorman.jan@gmail.com,true,Senior iOS Engineer @PhotoRoom. Compiling Swift source files.,58,223,4,2009-10-11 07:02:11+00:00,44.6
+greeeg,Gregoire Mielle,PENNYLANE-HQ,"Paris, France",hello@greeeg.com,false,"Building things at @pennylane-hq • Previously @payfit @workco, @minglabs",17,223,74,2015-05-14 15:40:12+00:00,2.973333333333333
+hugoam,Hugo Amnov,,"Paris, France",,false,,27,223,1,2014-11-01 18:40:28+00:00,111.5
+leoetlino,Léo Lam,,Paris,leo@leolam.fr,false,,81,222,2,2013-04-20 10:29:53+00:00,74.0
+woctezuma,Wok,,"Paris, France",,true,🦆,125,222,30,2011-01-18 13:19:20+00:00,7.161290322580645
+charlypoly,Charly Poly,,"Paris, France",,false,,109,221,97,2011-12-09 12:07:10+00:00,2.2551020408163267
+QuentinPerez,Quentin Perez,ELDER-ENG,Paris,,true,"🦀 Rust developer and open-source contributor! 
+Available for freelance opportunities ʘ‿ʘ",190,218,55,2012-12-19 13:44:22+00:00,3.892857142857143
+Abonia1,Abonia Sojasingarayar,IBM,"Paris,France",,false,Principal Research Scientist- Machine Learning & Ops Engineer,102,218,9,2016-10-17 12:09:36+00:00,21.8
+beauby,Lucas Hosseini,SKIP LABS,Paris,lucas.hosseini@gmail.com,false,,59,217,0,2012-08-25 04:44:23+00:00,217.0
+ismail1432,Smaine Milianni,YOUSIGN,Paris,smaine.milianni@gmail.com,false,"PHP - Symfony Certified Developer Freelancer trainer 
 Ex @sensiolabs @DirIPS @Greenflex @DigitalNYou
-",125,217,9,2015-07-09 18:46:14+00:00
-Peltoche,Pierre Peltier,,Paris,pierre.peltier@protonmail.com,True,quack?,16,214,20,2014-08-31 21:09:19+00:00
-azerpas,Anthony,DATADOME,Paris,anthony@smbs.io,True,"@DataDome - 25, French 👋",98,213,35,2016-05-10 08:18:21+00:00
-JulienBreux,Julien Breux,GOOGLE,"Paris, France",,False,"Senior software engineer
-Go, Container, Kubernetes",177,212,360,2011-08-07 11:18:26+00:00
-Stephane-D,Stephane Dallongeville,,Paris,,False,,1,212,16,2011-02-15 12:03:21+00:00
-scolladon,Sebastien,,Paris France,colladonsebastien@gmail.com,False,,68,212,17,2010-12-14 09:29:05+00:00
-gvarisco,Gianluca Varisco,GOOGLE,"Paris, France",gianluca.varisco@gmail.com,False,,3,212,0,2011-07-28 22:14:16+00:00
-mincong-h,Mincong Huang,,"Paris, France",mhuang@becomposable.com,False,把一件事做到了极致就是艺术 Taking something to the extreme is an art. Building @becomposable . Formerly @datadog @nuxeo ,83,211,617,2014-12-13 19:42:06+00:00
-frgfm,F-G Fernandez,QUACK-AI @PYRONEAR,"Paris, FR",,True,"Deep Learning Engineer by day, Open Source contributor by night :bat: ",55,211,16,2017-04-05 13:34:38+00:00
-jcarpent,Justin Carpentier,"INRIA, PARIS",Paris,justin.carpentier@inria.fr,False,"Researcher in Robotics,
+",125,217,9,2015-07-09 18:46:14+00:00,21.7
+Peltoche,Pierre Peltier,,Paris,pierre.peltier@protonmail.com,true,quack?,16,214,20,2014-08-31 21:09:19+00:00,10.19047619047619
+azerpas,Anthony,DATADOME,Paris,anthony@smbs.io,true,"@DataDome - 25, French 👋",98,213,35,2016-05-10 08:18:21+00:00,5.916666666666667
+JulienBreux,Julien Breux,GOOGLE,"Paris, France",,false,"Senior software engineer
+Go, Container, Kubernetes",177,212,360,2011-08-07 11:18:26+00:00,0.5872576177285319
+Stephane-D,Stephane Dallongeville,,Paris,,false,,1,212,16,2011-02-15 12:03:21+00:00,12.470588235294118
+scolladon,Sebastien,,Paris France,colladonsebastien@gmail.com,false,,68,212,17,2010-12-14 09:29:05+00:00,11.777777777777779
+gvarisco,Gianluca Varisco,GOOGLE,"Paris, France",gianluca.varisco@gmail.com,false,,3,212,0,2011-07-28 22:14:16+00:00,212.0
+mincong-h,Mincong Huang,,"Paris, France",mhuang@becomposable.com,false,把一件事做到了极致就是艺术 Taking something to the extreme is an art. Building @becomposable . Formerly @datadog @nuxeo ,83,211,617,2014-12-13 19:42:06+00:00,0.3414239482200647
+frgfm,F-G Fernandez,QUACK-AI @PYRONEAR,"Paris, FR",,true,"Deep Learning Engineer by day, Open Source contributor by night :bat: ",55,211,16,2017-04-05 13:34:38+00:00,12.411764705882353
+jcarpent,Justin Carpentier,"INRIA, PARIS",Paris,justin.carpentier@inria.fr,false,"Researcher in Robotics,
 Pinocchio guru,
-Willow team leader",104,211,0,2012-03-23 07:27:09+00:00
-thinkbeforecoding,Jérémie Chassaing,,Paris,,False,,88,210,4,2009-10-30 10:22:01+00:00
-rishistyping,Rish,,"Paris, FR",,False,"Computational Media Arts + Sciences
+Willow team leader",104,211,0,2012-03-23 07:27:09+00:00,211.0
+thinkbeforecoding,Jérémie Chassaing,,Paris,,false,,88,210,4,2009-10-30 10:22:01+00:00,42.0
+rishistyping,Rish,,"Paris, FR",,false,"Computational Media Arts + Sciences
 Human Machine eXperiences
-",366,208,1290,2019-09-14 23:05:28+00:00
-despoisj,Julien Despois,,"Paris, France",despois.j@gmail.com,True,"Machine Learning & Deep Learning Scientist @ L'Oreal.
-Music enthusiast.",8,207,2,2014-04-08 20:33:05+00:00
-xordoquy,Xavier Ordoquy,,"Paris, France",xordoquy@linovia.com,True,"Loving REST API, Django, Python",29,207,1,2012-09-13 16:23:57+00:00
-MattKetmo,Matt Ketmo,KILN,Paris,matthieu@moquet.net,False,Web3 Engineer,119,207,26,2010-07-17 17:22:26+00:00
-armel,Armel FAUVEAU,GLOBALIS,Paris (France),armel.fauveau@globalis-ms.com,False,"GLOBALIS Ⓖ co-founder/CTO, Web, Security, Performance, Apple  Addict, Geek Life, Astronomy, Ham Radio Operator F4HWN & RRF Admin, Nature, Fly Fishing and more.",79,207,5,2009-09-16 23:07:13+00:00
-mishig25,Mishig,HUGGINGFACE,"Paris, France",,True,,39,206,32,2015-04-07 02:18:53+00:00
-zaeph,Leo Vivier,IMAGINO,"Paris, France",zaeph@zaeph.net,False,"Backend Developer ·
-FLOSS Developer · Freelance",62,204,1,2015-05-01 19:38:49+00:00
-WissamAntoun,Wissam Antoun,INRIA-ALMANACH,Paris-France,wissam.antoun@gmail.com,False,"Research Engineer at INRIA, 
+",366,208,1290,2019-09-14 23:05:28+00:00,0.1611154144074361
+despoisj,Julien Despois,,"Paris, France",despois.j@gmail.com,true,"Machine Learning & Deep Learning Scientist @ L'Oreal.
+Music enthusiast.",8,207,2,2014-04-08 20:33:05+00:00,69.0
+xordoquy,Xavier Ordoquy,,"Paris, France",xordoquy@linovia.com,true,"Loving REST API, Django, Python",29,207,1,2012-09-13 16:23:57+00:00,103.5
+MattKetmo,Matt Ketmo,KILN,Paris,matthieu@moquet.net,false,Web3 Engineer,119,207,26,2010-07-17 17:22:26+00:00,7.666666666666667
+armel,Armel FAUVEAU,GLOBALIS,Paris (France),armel.fauveau@globalis-ms.com,false,"GLOBALIS Ⓖ co-founder/CTO, Web, Security, Performance, Apple  Addict, Geek Life, Astronomy, Ham Radio Operator F4HWN & RRF Admin, Nature, Fly Fishing and more.",79,207,5,2009-09-16 23:07:13+00:00,34.5
+mishig25,Mishig,HUGGINGFACE,"Paris, France",,true,,39,206,32,2015-04-07 02:18:53+00:00,6.242424242424242
+zaeph,Leo Vivier,IMAGINO,"Paris, France",zaeph@zaeph.net,false,"Backend Developer ·
+FLOSS Developer · Freelance",62,204,1,2015-05-01 19:38:49+00:00,102.0
+WissamAntoun,Wissam Antoun,INRIA-ALMANACH,Paris-France,wissam.antoun@gmail.com,false,"Research Engineer at INRIA, 
 prev. Data Scientist at SIREN, 
 prev. researcher at AUB MIND Lab.
 
-Interested in AI and NLP, Tech and DIY projects",57,204,28,2018-10-30 16:38:51+00:00
-axeldelafosse,Axel Delafosse,,Paris,axeldelafosse@gmail.com,False,YC alum,54,204,35,2015-01-10 15:41:45+00:00
-tdimnet,Thomas Dimnet,"NX-ACADEMY, @EDENSCHOOLFRANCE","Paris, France",,False,"Happy Founder @nx-academy & Computer Science Teacher @EdenSchoolFrance  (Ex @Datadog, @OpenClassrooms, @SensCritique)",130,204,60,2014-11-24 19:33:32+00:00
-julienXX,Julien Blanchard,MAKEMUSIC INC.,"Paris, France",julien@sideburns.eu,True,,137,202,139,2009-02-12 15:15:15+00:00
-iamvdo,Vincent De Oliveira,,"Paris, France",,False,,77,202,0,2011-12-13 15:01:31+00:00
-neocarto,Nicolas Lambert,CNRS,Paris,nicolas.lambert@cnrs.fr,False,Research engineer in geographic information science at CNRS (France). My job is to draw maps and teach cartography at the university. #JSspatial,39,201,44,2014-07-09 07:57:17+00:00
-ydshieh,Yih-Dar,,Paris,,False,Machine Learning Engineer,24,201,2,2012-10-09 16:55:45+00:00
-amineHorseman,Amine,,Paris,amine.bendahmane@univ-usto.dz,False,"Venue Tech Manager at Paris2024 Olympic Games | 
+Interested in AI and NLP, Tech and DIY projects",57,204,28,2018-10-30 16:38:51+00:00,7.0344827586206895
+axeldelafosse,Axel Delafosse,,Paris,axeldelafosse@gmail.com,false,YC alum,54,204,35,2015-01-10 15:41:45+00:00,5.666666666666667
+tdimnet,Thomas Dimnet,"NX-ACADEMY, @EDENSCHOOLFRANCE","Paris, France",,false,"Happy Founder @nx-academy & Computer Science Teacher @EdenSchoolFrance  (Ex @Datadog, @OpenClassrooms, @SensCritique)",130,204,60,2014-11-24 19:33:32+00:00,3.3442622950819674
+julienXX,Julien Blanchard,MAKEMUSIC INC.,"Paris, France",julien@sideburns.eu,true,,137,202,139,2009-02-12 15:15:15+00:00,1.4428571428571428
+iamvdo,Vincent De Oliveira,,"Paris, France",,false,,77,202,0,2011-12-13 15:01:31+00:00,202.0
+neocarto,Nicolas Lambert,CNRS,Paris,nicolas.lambert@cnrs.fr,false,Research engineer in geographic information science at CNRS (France). My job is to draw maps and teach cartography at the university. #JSspatial,39,201,44,2014-07-09 07:57:17+00:00,4.466666666666667
+ydshieh,Yih-Dar,,Paris,,false,Machine Learning Engineer,24,201,2,2012-10-09 16:55:45+00:00,67.0
+amineHorseman,Amine,,Paris,amine.bendahmane@univ-usto.dz,false,"Venue Tech Manager at Paris2024 Olympic Games | 
 PhD in AI & Robotics | 
 Python & ROS Developer.
-#Python #ROS #PHP #Tensorflow #MachineLearning",22,201,121,2015-10-21 21:45:35+00:00
-mica16,Michael AZERHAD,WEALCOME,Paris,mazerhad@wealcomecompany.com,True,"Passionated fullstack developer, Fond of Test-Driven Development ",18,201,0,2010-09-16 06:28:47+00:00
+#Python #ROS #PHP #Tensorflow #MachineLearning",22,201,121,2015-10-21 21:45:35+00:00,1.6475409836065573
+mica16,Michael AZERHAD,WEALCOME,Paris,mazerhad@wealcomecompany.com,true,"Passionated fullstack developer, Fond of Test-Driven Development ",18,201,0,2010-09-16 06:28:47+00:00,201.0
